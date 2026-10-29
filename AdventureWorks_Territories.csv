@@ -1,0 +1,1001 @@
+SalesTerritoryKey,SalesTerritoryAlternateKey,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup
+1,TERR-0001,Northwest,United States,Pacific
+2,TERR-0002,Northeast,Australia,North America
+3,TERR-0003,Central,France,North America
+4,TERR-0004,Southwest,Canada,Pacific
+5,TERR-0005,Southeast,Germany,Europe
+6,TERR-0006,Canada,Australia,Europe
+7,TERR-0007,France,Germany,North America
+8,TERR-0008,Germany,India,Pacific
+9,TERR-0009,Australia,United Kingdom,North America
+10,TERR-0010,United Kingdom,France,North America
+11,TERR-0011,Northwest,Australia,Europe
+12,TERR-0012,Northeast,Australia,Pacific
+13,TERR-0013,Central,India,Europe
+14,TERR-0014,Southwest,France,Pacific
+15,TERR-0015,Southeast,France,Europe
+16,TERR-0016,Canada,Canada,North America
+17,TERR-0017,France,United Kingdom,North America
+18,TERR-0018,Germany,Canada,Pacific
+19,TERR-0019,Australia,United Kingdom,Europe
+20,TERR-0020,United Kingdom,Canada,Europe
+21,TERR-0021,Northwest,Australia,Europe
+22,TERR-0022,Northeast,United States,North America
+23,TERR-0023,Central,Australia,Europe
+24,TERR-0024,Southwest,Germany,North America
+25,TERR-0025,Southeast,Australia,Pacific
+26,TERR-0026,Canada,United States,Pacific
+27,TERR-0027,France,Canada,Pacific
+28,TERR-0028,Germany,Canada,North America
+29,TERR-0029,Australia,India,North America
+30,TERR-0030,United Kingdom,United Kingdom,North America
+31,TERR-0031,Region 0031,Canada,Pacific
+32,TERR-0032,Region 0032,Germany,Pacific
+33,TERR-0033,Region 0033,United Kingdom,Pacific
+34,TERR-0034,Region 0034,France,Europe
+35,TERR-0035,Region 0035,Canada,North America
+36,TERR-0036,Region 0036,Germany,Pacific
+37,TERR-0037,Region 0037,United States,Europe
+38,TERR-0038,Region 0038,Canada,Europe
+39,TERR-0039,Region 0039,Canada,North America
+40,TERR-0040,Region 0040,Australia,Europe
+41,TERR-0041,Region 0041,United States,Pacific
+42,TERR-0042,Region 0042,United Kingdom,Pacific
+43,TERR-0043,Region 0043,France,North America
+44,TERR-0044,Region 0044,France,North America
+45,TERR-0045,Region 0045,Australia,Pacific
+46,TERR-0046,Region 0046,United States,North America
+47,TERR-0047,Region 0047,United Kingdom,Europe
+48,TERR-0048,Region 0048,France,Europe
+49,TERR-0049,Region 0049,France,Europe
+50,TERR-0050,Region 0050,Germany,Pacific
+51,TERR-0051,Region 0051,France,Pacific
+52,TERR-0052,Region 0052,India,Europe
+53,TERR-0053,Region 0053,India,North America
+54,TERR-0054,Region 0054,Germany,Pacific
+55,TERR-0055,Region 0055,India,Pacific
+56,TERR-0056,Region 0056,Canada,Pacific
+57,TERR-0057,Region 0057,India,Europe
+58,TERR-0058,Region 0058,Canada,Europe
+59,TERR-0059,Region 0059,India,North America
+60,TERR-0060,Region 0060,Canada,Europe
+61,TERR-0061,Region 0061,Australia,Europe
+62,TERR-0062,Region 0062,United Kingdom,North America
+63,TERR-0063,Region 0063,France,Europe
+64,TERR-0064,Region 0064,Germany,Europe
+65,TERR-0065,Region 0065,United States,Pacific
+66,TERR-0066,Region 0066,Australia,North America
+67,TERR-0067,Region 0067,Australia,North America
+68,TERR-0068,Region 0068,France,Europe
+69,TERR-0069,Region 0069,Germany,Pacific
+70,TERR-0070,Region 0070,France,North America
+71,TERR-0071,Region 0071,Australia,Pacific
+72,TERR-0072,Region 0072,United Kingdom,Pacific
+73,TERR-0073,Region 0073,Germany,North America
+74,TERR-0074,Region 0074,United Kingdom,Europe
+75,TERR-0075,Region 0075,India,North America
+76,TERR-0076,Region 0076,Canada,Europe
+77,TERR-0077,Region 0077,Canada,Pacific
+78,TERR-0078,Region 0078,United States,Europe
+79,TERR-0079,Region 0079,Germany,Europe
+80,TERR-0080,Region 0080,India,North America
+81,TERR-0081,Region 0081,Canada,Europe
+82,TERR-0082,Region 0082,Germany,Europe
+83,TERR-0083,Region 0083,France,Pacific
+84,TERR-0084,Region 0084,Germany,Pacific
+85,TERR-0085,Region 0085,France,North America
+86,TERR-0086,Region 0086,Australia,Europe
+87,TERR-0087,Region 0087,Canada,Europe
+88,TERR-0088,Region 0088,Germany,Europe
+89,TERR-0089,Region 0089,India,Europe
+90,TERR-0090,Region 0090,India,Pacific
+91,TERR-0091,Region 0091,India,North America
+92,TERR-0092,Region 0092,France,North America
+93,TERR-0093,Region 0093,India,North America
+94,TERR-0094,Region 0094,Germany,Pacific
+95,TERR-0095,Region 0095,United States,North America
+96,TERR-0096,Region 0096,Germany,North America
+97,TERR-0097,Region 0097,Canada,Europe
+98,TERR-0098,Region 0098,United States,Pacific
+99,TERR-0099,Region 0099,United Kingdom,Pacific
+100,TERR-0100,Region 0100,Germany,Pacific
+101,TERR-0101,Region 0101,Germany,Pacific
+102,TERR-0102,Region 0102,Canada,Pacific
+103,TERR-0103,Region 0103,United Kingdom,Pacific
+104,TERR-0104,Region 0104,Canada,North America
+105,TERR-0105,Region 0105,Canada,Europe
+106,TERR-0106,Region 0106,Australia,Europe
+107,TERR-0107,Region 0107,Germany,Europe
+108,TERR-0108,Region 0108,Canada,Pacific
+109,TERR-0109,Region 0109,United Kingdom,Pacific
+110,TERR-0110,Region 0110,United States,Europe
+111,TERR-0111,Region 0111,India,North America
+112,TERR-0112,Region 0112,United Kingdom,Europe
+113,TERR-0113,Region 0113,United Kingdom,North America
+114,TERR-0114,Region 0114,Germany,Europe
+115,TERR-0115,Region 0115,United States,North America
+116,TERR-0116,Region 0116,India,North America
+117,TERR-0117,Region 0117,United States,North America
+118,TERR-0118,Region 0118,France,Europe
+119,TERR-0119,Region 0119,India,North America
+120,TERR-0120,Region 0120,Germany,North America
+121,TERR-0121,Region 0121,India,North America
+122,TERR-0122,Region 0122,Canada,Europe
+123,TERR-0123,Region 0123,France,Europe
+124,TERR-0124,Region 0124,Germany,Europe
+125,TERR-0125,Region 0125,United States,Europe
+126,TERR-0126,Region 0126,India,North America
+127,TERR-0127,Region 0127,Australia,Pacific
+128,TERR-0128,Region 0128,Canada,North America
+129,TERR-0129,Region 0129,Australia,North America
+130,TERR-0130,Region 0130,France,Pacific
+131,TERR-0131,Region 0131,United States,Europe
+132,TERR-0132,Region 0132,France,Europe
+133,TERR-0133,Region 0133,India,Europe
+134,TERR-0134,Region 0134,United States,Europe
+135,TERR-0135,Region 0135,Canada,Pacific
+136,TERR-0136,Region 0136,Germany,Pacific
+137,TERR-0137,Region 0137,India,North America
+138,TERR-0138,Region 0138,United States,Europe
+139,TERR-0139,Region 0139,United Kingdom,Pacific
+140,TERR-0140,Region 0140,France,Europe
+141,TERR-0141,Region 0141,United Kingdom,Europe
+142,TERR-0142,Region 0142,India,Europe
+143,TERR-0143,Region 0143,France,Europe
+144,TERR-0144,Region 0144,United Kingdom,North America
+145,TERR-0145,Region 0145,United States,Pacific
+146,TERR-0146,Region 0146,Germany,Europe
+147,TERR-0147,Region 0147,France,Europe
+148,TERR-0148,Region 0148,Australia,North America
+149,TERR-0149,Region 0149,United Kingdom,Pacific
+150,TERR-0150,Region 0150,United States,Pacific
+151,TERR-0151,Region 0151,France,Pacific
+152,TERR-0152,Region 0152,Germany,Europe
+153,TERR-0153,Region 0153,France,Europe
+154,TERR-0154,Region 0154,Germany,North America
+155,TERR-0155,Region 0155,Australia,North America
+156,TERR-0156,Region 0156,Australia,Europe
+157,TERR-0157,Region 0157,Canada,North America
+158,TERR-0158,Region 0158,Germany,North America
+159,TERR-0159,Region 0159,United States,Pacific
+160,TERR-0160,Region 0160,United States,Europe
+161,TERR-0161,Region 0161,France,Pacific
+162,TERR-0162,Region 0162,Canada,Pacific
+163,TERR-0163,Region 0163,United States,North America
+164,TERR-0164,Region 0164,India,Pacific
+165,TERR-0165,Region 0165,Canada,Europe
+166,TERR-0166,Region 0166,United Kingdom,Pacific
+167,TERR-0167,Region 0167,Australia,North America
+168,TERR-0168,Region 0168,Australia,Europe
+169,TERR-0169,Region 0169,India,Europe
+170,TERR-0170,Region 0170,France,Europe
+171,TERR-0171,Region 0171,France,Europe
+172,TERR-0172,Region 0172,Germany,North America
+173,TERR-0173,Region 0173,Australia,North America
+174,TERR-0174,Region 0174,Australia,Europe
+175,TERR-0175,Region 0175,United States,Europe
+176,TERR-0176,Region 0176,India,Europe
+177,TERR-0177,Region 0177,India,Europe
+178,TERR-0178,Region 0178,France,North America
+179,TERR-0179,Region 0179,United States,Pacific
+180,TERR-0180,Region 0180,France,North America
+181,TERR-0181,Region 0181,Australia,Pacific
+182,TERR-0182,Region 0182,United States,North America
+183,TERR-0183,Region 0183,France,Pacific
+184,TERR-0184,Region 0184,Australia,North America
+185,TERR-0185,Region 0185,Canada,Pacific
+186,TERR-0186,Region 0186,United Kingdom,North America
+187,TERR-0187,Region 0187,United States,Europe
+188,TERR-0188,Region 0188,United States,Europe
+189,TERR-0189,Region 0189,United Kingdom,North America
+190,TERR-0190,Region 0190,Canada,Europe
+191,TERR-0191,Region 0191,Australia,North America
+192,TERR-0192,Region 0192,India,Europe
+193,TERR-0193,Region 0193,France,Europe
+194,TERR-0194,Region 0194,Germany,North America
+195,TERR-0195,Region 0195,Australia,Pacific
+196,TERR-0196,Region 0196,France,Europe
+197,TERR-0197,Region 0197,Australia,Pacific
+198,TERR-0198,Region 0198,Canada,Pacific
+199,TERR-0199,Region 0199,United Kingdom,North America
+200,TERR-0200,Region 0200,Canada,North America
+201,TERR-0201,Region 0201,United States,Pacific
+202,TERR-0202,Region 0202,United Kingdom,North America
+203,TERR-0203,Region 0203,France,North America
+204,TERR-0204,Region 0204,United Kingdom,Europe
+205,TERR-0205,Region 0205,Australia,Pacific
+206,TERR-0206,Region 0206,United States,North America
+207,TERR-0207,Region 0207,India,Europe
+208,TERR-0208,Region 0208,France,Europe
+209,TERR-0209,Region 0209,Australia,Europe
+210,TERR-0210,Region 0210,United States,Europe
+211,TERR-0211,Region 0211,United States,North America
+212,TERR-0212,Region 0212,Germany,Europe
+213,TERR-0213,Region 0213,United States,North America
+214,TERR-0214,Region 0214,Canada,Pacific
+215,TERR-0215,Region 0215,Germany,North America
+216,TERR-0216,Region 0216,Australia,Pacific
+217,TERR-0217,Region 0217,France,North America
+218,TERR-0218,Region 0218,France,Europe
+219,TERR-0219,Region 0219,India,North America
+220,TERR-0220,Region 0220,France,Europe
+221,TERR-0221,Region 0221,United States,Pacific
+222,TERR-0222,Region 0222,United Kingdom,Pacific
+223,TERR-0223,Region 0223,United Kingdom,Pacific
+224,TERR-0224,Region 0224,France,Europe
+225,TERR-0225,Region 0225,India,Europe
+226,TERR-0226,Region 0226,United Kingdom,Pacific
+227,TERR-0227,Region 0227,United Kingdom,Pacific
+228,TERR-0228,Region 0228,Germany,Pacific
+229,TERR-0229,Region 0229,France,North America
+230,TERR-0230,Region 0230,United States,North America
+231,TERR-0231,Region 0231,Canada,North America
+232,TERR-0232,Region 0232,Australia,North America
+233,TERR-0233,Region 0233,United Kingdom,Pacific
+234,TERR-0234,Region 0234,Germany,North America
+235,TERR-0235,Region 0235,Germany,Pacific
+236,TERR-0236,Region 0236,Germany,Pacific
+237,TERR-0237,Region 0237,Germany,Europe
+238,TERR-0238,Region 0238,Germany,North America
+239,TERR-0239,Region 0239,Canada,North America
+240,TERR-0240,Region 0240,Canada,Pacific
+241,TERR-0241,Region 0241,Canada,Pacific
+242,TERR-0242,Region 0242,Germany,Europe
+243,TERR-0243,Region 0243,India,Europe
+244,TERR-0244,Region 0244,Canada,Pacific
+245,TERR-0245,Region 0245,Germany,Pacific
+246,TERR-0246,Region 0246,United Kingdom,Pacific
+247,TERR-0247,Region 0247,United Kingdom,North America
+248,TERR-0248,Region 0248,United States,North America
+249,TERR-0249,Region 0249,France,Europe
+250,TERR-0250,Region 0250,United Kingdom,Europe
+251,TERR-0251,Region 0251,Germany,Europe
+252,TERR-0252,Region 0252,United States,Europe
+253,TERR-0253,Region 0253,United States,Pacific
+254,TERR-0254,Region 0254,India,Pacific
+255,TERR-0255,Region 0255,United States,Pacific
+256,TERR-0256,Region 0256,United Kingdom,Pacific
+257,TERR-0257,Region 0257,Canada,Europe
+258,TERR-0258,Region 0258,India,Europe
+259,TERR-0259,Region 0259,United States,Europe
+260,TERR-0260,Region 0260,United States,Pacific
+261,TERR-0261,Region 0261,Canada,Pacific
+262,TERR-0262,Region 0262,India,Europe
+263,TERR-0263,Region 0263,United States,Pacific
+264,TERR-0264,Region 0264,United Kingdom,North America
+265,TERR-0265,Region 0265,United Kingdom,Europe
+266,TERR-0266,Region 0266,Canada,Pacific
+267,TERR-0267,Region 0267,United Kingdom,Pacific
+268,TERR-0268,Region 0268,India,Europe
+269,TERR-0269,Region 0269,United States,North America
+270,TERR-0270,Region 0270,France,Pacific
+271,TERR-0271,Region 0271,United Kingdom,Pacific
+272,TERR-0272,Region 0272,France,Europe
+273,TERR-0273,Region 0273,Germany,Pacific
+274,TERR-0274,Region 0274,Canada,Europe
+275,TERR-0275,Region 0275,Canada,Europe
+276,TERR-0276,Region 0276,France,North America
+277,TERR-0277,Region 0277,France,Europe
+278,TERR-0278,Region 0278,India,Europe
+279,TERR-0279,Region 0279,United States,Europe
+280,TERR-0280,Region 0280,France,North America
+281,TERR-0281,Region 0281,Australia,Europe
+282,TERR-0282,Region 0282,United States,Pacific
+283,TERR-0283,Region 0283,Germany,Pacific
+284,TERR-0284,Region 0284,United States,North America
+285,TERR-0285,Region 0285,Canada,Europe
+286,TERR-0286,Region 0286,United States,North America
+287,TERR-0287,Region 0287,Australia,Pacific
+288,TERR-0288,Region 0288,Germany,Europe
+289,TERR-0289,Region 0289,United States,Pacific
+290,TERR-0290,Region 0290,United States,Europe
+291,TERR-0291,Region 0291,France,North America
+292,TERR-0292,Region 0292,United Kingdom,Europe
+293,TERR-0293,Region 0293,United States,Europe
+294,TERR-0294,Region 0294,India,Pacific
+295,TERR-0295,Region 0295,United Kingdom,Pacific
+296,TERR-0296,Region 0296,France,Pacific
+297,TERR-0297,Region 0297,United Kingdom,Pacific
+298,TERR-0298,Region 0298,Australia,Europe
+299,TERR-0299,Region 0299,France,Europe
+300,TERR-0300,Region 0300,Germany,Europe
+301,TERR-0301,Region 0301,United States,Europe
+302,TERR-0302,Region 0302,United Kingdom,North America
+303,TERR-0303,Region 0303,United States,Pacific
+304,TERR-0304,Region 0304,France,Europe
+305,TERR-0305,Region 0305,United Kingdom,Europe
+306,TERR-0306,Region 0306,United States,Pacific
+307,TERR-0307,Region 0307,Canada,Europe
+308,TERR-0308,Region 0308,United Kingdom,Europe
+309,TERR-0309,Region 0309,United Kingdom,Europe
+310,TERR-0310,Region 0310,Australia,Pacific
+311,TERR-0311,Region 0311,France,North America
+312,TERR-0312,Region 0312,United Kingdom,North America
+313,TERR-0313,Region 0313,France,North America
+314,TERR-0314,Region 0314,India,Pacific
+315,TERR-0315,Region 0315,Canada,North America
+316,TERR-0316,Region 0316,India,Pacific
+317,TERR-0317,Region 0317,Canada,Pacific
+318,TERR-0318,Region 0318,United Kingdom,Pacific
+319,TERR-0319,Region 0319,United Kingdom,North America
+320,TERR-0320,Region 0320,United States,Europe
+321,TERR-0321,Region 0321,India,Europe
+322,TERR-0322,Region 0322,United States,North America
+323,TERR-0323,Region 0323,United Kingdom,North America
+324,TERR-0324,Region 0324,United States,Pacific
+325,TERR-0325,Region 0325,United States,Europe
+326,TERR-0326,Region 0326,France,Europe
+327,TERR-0327,Region 0327,United States,Pacific
+328,TERR-0328,Region 0328,India,Europe
+329,TERR-0329,Region 0329,Canada,Pacific
+330,TERR-0330,Region 0330,United States,North America
+331,TERR-0331,Region 0331,Canada,North America
+332,TERR-0332,Region 0332,United States,North America
+333,TERR-0333,Region 0333,Canada,Europe
+334,TERR-0334,Region 0334,Germany,Pacific
+335,TERR-0335,Region 0335,India,Europe
+336,TERR-0336,Region 0336,Germany,North America
+337,TERR-0337,Region 0337,India,North America
+338,TERR-0338,Region 0338,France,Europe
+339,TERR-0339,Region 0339,United States,North America
+340,TERR-0340,Region 0340,United Kingdom,North America
+341,TERR-0341,Region 0341,Canada,North America
+342,TERR-0342,Region 0342,Australia,Europe
+343,TERR-0343,Region 0343,Germany,Pacific
+344,TERR-0344,Region 0344,United States,Pacific
+345,TERR-0345,Region 0345,United States,North America
+346,TERR-0346,Region 0346,Germany,Pacific
+347,TERR-0347,Region 0347,Australia,Europe
+348,TERR-0348,Region 0348,Canada,Europe
+349,TERR-0349,Region 0349,United Kingdom,Pacific
+350,TERR-0350,Region 0350,India,North America
+351,TERR-0351,Region 0351,Germany,Europe
+352,TERR-0352,Region 0352,United States,North America
+353,TERR-0353,Region 0353,United States,Europe
+354,TERR-0354,Region 0354,Germany,North America
+355,TERR-0355,Region 0355,France,North America
+356,TERR-0356,Region 0356,United Kingdom,Europe
+357,TERR-0357,Region 0357,India,North America
+358,TERR-0358,Region 0358,Germany,Pacific
+359,TERR-0359,Region 0359,United States,North America
+360,TERR-0360,Region 0360,United Kingdom,North America
+361,TERR-0361,Region 0361,United States,Europe
+362,TERR-0362,Region 0362,Germany,Europe
+363,TERR-0363,Region 0363,Germany,Europe
+364,TERR-0364,Region 0364,United States,Pacific
+365,TERR-0365,Region 0365,United Kingdom,Europe
+366,TERR-0366,Region 0366,India,Europe
+367,TERR-0367,Region 0367,France,Pacific
+368,TERR-0368,Region 0368,Germany,Europe
+369,TERR-0369,Region 0369,United Kingdom,North America
+370,TERR-0370,Region 0370,Canada,Europe
+371,TERR-0371,Region 0371,United States,Pacific
+372,TERR-0372,Region 0372,United Kingdom,North America
+373,TERR-0373,Region 0373,Australia,Pacific
+374,TERR-0374,Region 0374,Canada,Europe
+375,TERR-0375,Region 0375,India,North America
+376,TERR-0376,Region 0376,Canada,Europe
+377,TERR-0377,Region 0377,Australia,Europe
+378,TERR-0378,Region 0378,India,Pacific
+379,TERR-0379,Region 0379,United Kingdom,North America
+380,TERR-0380,Region 0380,United States,North America
+381,TERR-0381,Region 0381,Canada,North America
+382,TERR-0382,Region 0382,United States,Europe
+383,TERR-0383,Region 0383,United Kingdom,Pacific
+384,TERR-0384,Region 0384,Canada,Pacific
+385,TERR-0385,Region 0385,Canada,Europe
+386,TERR-0386,Region 0386,United Kingdom,Europe
+387,TERR-0387,Region 0387,United States,Europe
+388,TERR-0388,Region 0388,United Kingdom,North America
+389,TERR-0389,Region 0389,France,Europe
+390,TERR-0390,Region 0390,Germany,Pacific
+391,TERR-0391,Region 0391,Australia,Europe
+392,TERR-0392,Region 0392,United States,North America
+393,TERR-0393,Region 0393,Canada,North America
+394,TERR-0394,Region 0394,France,Pacific
+395,TERR-0395,Region 0395,Germany,Pacific
+396,TERR-0396,Region 0396,Germany,North America
+397,TERR-0397,Region 0397,United Kingdom,Europe
+398,TERR-0398,Region 0398,Canada,Pacific
+399,TERR-0399,Region 0399,United States,North America
+400,TERR-0400,Region 0400,France,North America
+401,TERR-0401,Region 0401,United States,Europe
+402,TERR-0402,Region 0402,India,Europe
+403,TERR-0403,Region 0403,United Kingdom,Europe
+404,TERR-0404,Region 0404,Australia,Pacific
+405,TERR-0405,Region 0405,Germany,Pacific
+406,TERR-0406,Region 0406,Canada,Europe
+407,TERR-0407,Region 0407,United States,North America
+408,TERR-0408,Region 0408,India,North America
+409,TERR-0409,Region 0409,Australia,North America
+410,TERR-0410,Region 0410,United States,North America
+411,TERR-0411,Region 0411,United States,Europe
+412,TERR-0412,Region 0412,Australia,North America
+413,TERR-0413,Region 0413,India,Europe
+414,TERR-0414,Region 0414,United States,North America
+415,TERR-0415,Region 0415,India,Pacific
+416,TERR-0416,Region 0416,Australia,Europe
+417,TERR-0417,Region 0417,United States,Pacific
+418,TERR-0418,Region 0418,India,Europe
+419,TERR-0419,Region 0419,India,North America
+420,TERR-0420,Region 0420,United Kingdom,Pacific
+421,TERR-0421,Region 0421,India,North America
+422,TERR-0422,Region 0422,United Kingdom,Pacific
+423,TERR-0423,Region 0423,India,Pacific
+424,TERR-0424,Region 0424,Germany,Pacific
+425,TERR-0425,Region 0425,France,Europe
+426,TERR-0426,Region 0426,United Kingdom,Europe
+427,TERR-0427,Region 0427,Canada,Europe
+428,TERR-0428,Region 0428,United States,Europe
+429,TERR-0429,Region 0429,France,Pacific
+430,TERR-0430,Region 0430,Canada,Europe
+431,TERR-0431,Region 0431,Germany,North America
+432,TERR-0432,Region 0432,France,Europe
+433,TERR-0433,Region 0433,Australia,Pacific
+434,TERR-0434,Region 0434,India,North America
+435,TERR-0435,Region 0435,Australia,Europe
+436,TERR-0436,Region 0436,India,Pacific
+437,TERR-0437,Region 0437,United Kingdom,North America
+438,TERR-0438,Region 0438,Germany,Pacific
+439,TERR-0439,Region 0439,United States,Pacific
+440,TERR-0440,Region 0440,India,North America
+441,TERR-0441,Region 0441,France,Pacific
+442,TERR-0442,Region 0442,Germany,Europe
+443,TERR-0443,Region 0443,Germany,North America
+444,TERR-0444,Region 0444,India,North America
+445,TERR-0445,Region 0445,France,North America
+446,TERR-0446,Region 0446,France,Europe
+447,TERR-0447,Region 0447,United Kingdom,North America
+448,TERR-0448,Region 0448,India,Europe
+449,TERR-0449,Region 0449,Australia,Pacific
+450,TERR-0450,Region 0450,United Kingdom,Pacific
+451,TERR-0451,Region 0451,Germany,Pacific
+452,TERR-0452,Region 0452,United States,Europe
+453,TERR-0453,Region 0453,United States,Pacific
+454,TERR-0454,Region 0454,United States,Europe
+455,TERR-0455,Region 0455,United Kingdom,North America
+456,TERR-0456,Region 0456,Australia,Pacific
+457,TERR-0457,Region 0457,France,North America
+458,TERR-0458,Region 0458,France,Pacific
+459,TERR-0459,Region 0459,France,Europe
+460,TERR-0460,Region 0460,Germany,Pacific
+461,TERR-0461,Region 0461,Australia,North America
+462,TERR-0462,Region 0462,Germany,Europe
+463,TERR-0463,Region 0463,United Kingdom,Europe
+464,TERR-0464,Region 0464,India,Europe
+465,TERR-0465,Region 0465,United States,Europe
+466,TERR-0466,Region 0466,France,Europe
+467,TERR-0467,Region 0467,France,Pacific
+468,TERR-0468,Region 0468,Germany,Pacific
+469,TERR-0469,Region 0469,United Kingdom,North America
+470,TERR-0470,Region 0470,United Kingdom,Pacific
+471,TERR-0471,Region 0471,Germany,Europe
+472,TERR-0472,Region 0472,Australia,Europe
+473,TERR-0473,Region 0473,Australia,North America
+474,TERR-0474,Region 0474,Canada,Pacific
+475,TERR-0475,Region 0475,Germany,Pacific
+476,TERR-0476,Region 0476,United Kingdom,North America
+477,TERR-0477,Region 0477,Australia,Pacific
+478,TERR-0478,Region 0478,United Kingdom,North America
+479,TERR-0479,Region 0479,India,Pacific
+480,TERR-0480,Region 0480,United Kingdom,North America
+481,TERR-0481,Region 0481,Canada,Europe
+482,TERR-0482,Region 0482,United Kingdom,North America
+483,TERR-0483,Region 0483,France,Pacific
+484,TERR-0484,Region 0484,United Kingdom,Europe
+485,TERR-0485,Region 0485,France,Pacific
+486,TERR-0486,Region 0486,France,Europe
+487,TERR-0487,Region 0487,France,North America
+488,TERR-0488,Region 0488,Canada,Pacific
+489,TERR-0489,Region 0489,India,North America
+490,TERR-0490,Region 0490,Germany,Europe
+491,TERR-0491,Region 0491,United States,North America
+492,TERR-0492,Region 0492,United States,North America
+493,TERR-0493,Region 0493,United Kingdom,Europe
+494,TERR-0494,Region 0494,France,Pacific
+495,TERR-0495,Region 0495,United States,North America
+496,TERR-0496,Region 0496,Germany,North America
+497,TERR-0497,Region 0497,Germany,Pacific
+498,TERR-0498,Region 0498,France,North America
+499,TERR-0499,Region 0499,Australia,North America
+500,TERR-0500,Region 0500,Australia,Pacific
+501,TERR-0501,Region 0501,Germany,Europe
+502,TERR-0502,Region 0502,India,North America
+503,TERR-0503,Region 0503,Germany,Pacific
+504,TERR-0504,Region 0504,Canada,Europe
+505,TERR-0505,Region 0505,France,Pacific
+506,TERR-0506,Region 0506,Australia,Europe
+507,TERR-0507,Region 0507,United Kingdom,Europe
+508,TERR-0508,Region 0508,Germany,Europe
+509,TERR-0509,Region 0509,India,Europe
+510,TERR-0510,Region 0510,United States,Europe
+511,TERR-0511,Region 0511,United Kingdom,North America
+512,TERR-0512,Region 0512,United States,Pacific
+513,TERR-0513,Region 0513,India,Pacific
+514,TERR-0514,Region 0514,France,Europe
+515,TERR-0515,Region 0515,Canada,Pacific
+516,TERR-0516,Region 0516,United States,Europe
+517,TERR-0517,Region 0517,Germany,Pacific
+518,TERR-0518,Region 0518,Germany,Pacific
+519,TERR-0519,Region 0519,Australia,Pacific
+520,TERR-0520,Region 0520,United Kingdom,North America
+521,TERR-0521,Region 0521,India,North America
+522,TERR-0522,Region 0522,Canada,Europe
+523,TERR-0523,Region 0523,United Kingdom,Pacific
+524,TERR-0524,Region 0524,Canada,North America
+525,TERR-0525,Region 0525,United States,North America
+526,TERR-0526,Region 0526,Australia,North America
+527,TERR-0527,Region 0527,Germany,Europe
+528,TERR-0528,Region 0528,Germany,Pacific
+529,TERR-0529,Region 0529,Germany,Europe
+530,TERR-0530,Region 0530,France,Pacific
+531,TERR-0531,Region 0531,France,North America
+532,TERR-0532,Region 0532,United Kingdom,North America
+533,TERR-0533,Region 0533,Australia,Pacific
+534,TERR-0534,Region 0534,Canada,Europe
+535,TERR-0535,Region 0535,India,North America
+536,TERR-0536,Region 0536,Germany,North America
+537,TERR-0537,Region 0537,France,Pacific
+538,TERR-0538,Region 0538,United States,Pacific
+539,TERR-0539,Region 0539,Australia,Pacific
+540,TERR-0540,Region 0540,United States,Europe
+541,TERR-0541,Region 0541,Canada,Pacific
+542,TERR-0542,Region 0542,Australia,Pacific
+543,TERR-0543,Region 0543,India,Europe
+544,TERR-0544,Region 0544,Germany,North America
+545,TERR-0545,Region 0545,France,Pacific
+546,TERR-0546,Region 0546,Canada,Europe
+547,TERR-0547,Region 0547,Australia,Europe
+548,TERR-0548,Region 0548,United States,Pacific
+549,TERR-0549,Region 0549,United States,North America
+550,TERR-0550,Region 0550,France,Pacific
+551,TERR-0551,Region 0551,France,North America
+552,TERR-0552,Region 0552,France,North America
+553,TERR-0553,Region 0553,United Kingdom,Europe
+554,TERR-0554,Region 0554,India,Europe
+555,TERR-0555,Region 0555,United Kingdom,North America
+556,TERR-0556,Region 0556,India,Pacific
+557,TERR-0557,Region 0557,Australia,Europe
+558,TERR-0558,Region 0558,France,Pacific
+559,TERR-0559,Region 0559,Canada,Pacific
+560,TERR-0560,Region 0560,India,Europe
+561,TERR-0561,Region 0561,India,Europe
+562,TERR-0562,Region 0562,Germany,Europe
+563,TERR-0563,Region 0563,United States,Pacific
+564,TERR-0564,Region 0564,Australia,Pacific
+565,TERR-0565,Region 0565,Australia,North America
+566,TERR-0566,Region 0566,United Kingdom,Europe
+567,TERR-0567,Region 0567,Germany,North America
+568,TERR-0568,Region 0568,Germany,North America
+569,TERR-0569,Region 0569,United States,Pacific
+570,TERR-0570,Region 0570,India,Europe
+571,TERR-0571,Region 0571,France,Pacific
+572,TERR-0572,Region 0572,Canada,Pacific
+573,TERR-0573,Region 0573,India,North America
+574,TERR-0574,Region 0574,India,Europe
+575,TERR-0575,Region 0575,United States,North America
+576,TERR-0576,Region 0576,Germany,North America
+577,TERR-0577,Region 0577,Germany,North America
+578,TERR-0578,Region 0578,United Kingdom,Europe
+579,TERR-0579,Region 0579,Canada,North America
+580,TERR-0580,Region 0580,Germany,Europe
+581,TERR-0581,Region 0581,Germany,North America
+582,TERR-0582,Region 0582,United States,Pacific
+583,TERR-0583,Region 0583,Canada,Pacific
+584,TERR-0584,Region 0584,India,Europe
+585,TERR-0585,Region 0585,United States,North America
+586,TERR-0586,Region 0586,France,Pacific
+587,TERR-0587,Region 0587,United Kingdom,Europe
+588,TERR-0588,Region 0588,France,Europe
+589,TERR-0589,Region 0589,United States,North America
+590,TERR-0590,Region 0590,France,North America
+591,TERR-0591,Region 0591,United States,Europe
+592,TERR-0592,Region 0592,India,Europe
+593,TERR-0593,Region 0593,Canada,Pacific
+594,TERR-0594,Region 0594,Australia,North America
+595,TERR-0595,Region 0595,United States,North America
+596,TERR-0596,Region 0596,India,Pacific
+597,TERR-0597,Region 0597,India,Pacific
+598,TERR-0598,Region 0598,Canada,Pacific
+599,TERR-0599,Region 0599,Australia,North America
+600,TERR-0600,Region 0600,Australia,North America
+601,TERR-0601,Region 0601,India,Pacific
+602,TERR-0602,Region 0602,Australia,Europe
+603,TERR-0603,Region 0603,United States,Europe
+604,TERR-0604,Region 0604,Australia,Pacific
+605,TERR-0605,Region 0605,Canada,North America
+606,TERR-0606,Region 0606,Canada,North America
+607,TERR-0607,Region 0607,Canada,Pacific
+608,TERR-0608,Region 0608,Canada,Pacific
+609,TERR-0609,Region 0609,United Kingdom,Europe
+610,TERR-0610,Region 0610,Canada,North America
+611,TERR-0611,Region 0611,India,North America
+612,TERR-0612,Region 0612,United Kingdom,North America
+613,TERR-0613,Region 0613,Germany,Europe
+614,TERR-0614,Region 0614,Australia,Europe
+615,TERR-0615,Region 0615,India,Europe
+616,TERR-0616,Region 0616,United States,North America
+617,TERR-0617,Region 0617,United Kingdom,Pacific
+618,TERR-0618,Region 0618,France,Pacific
+619,TERR-0619,Region 0619,Germany,North America
+620,TERR-0620,Region 0620,United States,Pacific
+621,TERR-0621,Region 0621,France,Europe
+622,TERR-0622,Region 0622,Germany,Pacific
+623,TERR-0623,Region 0623,United States,North America
+624,TERR-0624,Region 0624,United Kingdom,Pacific
+625,TERR-0625,Region 0625,United Kingdom,Pacific
+626,TERR-0626,Region 0626,Germany,Pacific
+627,TERR-0627,Region 0627,Germany,Pacific
+628,TERR-0628,Region 0628,Germany,Pacific
+629,TERR-0629,Region 0629,United Kingdom,Pacific
+630,TERR-0630,Region 0630,France,Pacific
+631,TERR-0631,Region 0631,Germany,Europe
+632,TERR-0632,Region 0632,France,Pacific
+633,TERR-0633,Region 0633,Canada,Pacific
+634,TERR-0634,Region 0634,India,Europe
+635,TERR-0635,Region 0635,India,Europe
+636,TERR-0636,Region 0636,United Kingdom,Europe
+637,TERR-0637,Region 0637,India,Europe
+638,TERR-0638,Region 0638,Australia,Europe
+639,TERR-0639,Region 0639,India,North America
+640,TERR-0640,Region 0640,Canada,Europe
+641,TERR-0641,Region 0641,India,Pacific
+642,TERR-0642,Region 0642,France,North America
+643,TERR-0643,Region 0643,India,Pacific
+644,TERR-0644,Region 0644,France,Europe
+645,TERR-0645,Region 0645,Germany,North America
+646,TERR-0646,Region 0646,Canada,Europe
+647,TERR-0647,Region 0647,Germany,Pacific
+648,TERR-0648,Region 0648,India,North America
+649,TERR-0649,Region 0649,France,Pacific
+650,TERR-0650,Region 0650,Canada,Pacific
+651,TERR-0651,Region 0651,United Kingdom,North America
+652,TERR-0652,Region 0652,India,Pacific
+653,TERR-0653,Region 0653,India,Europe
+654,TERR-0654,Region 0654,India,Europe
+655,TERR-0655,Region 0655,Germany,North America
+656,TERR-0656,Region 0656,Australia,Pacific
+657,TERR-0657,Region 0657,United States,North America
+658,TERR-0658,Region 0658,France,Pacific
+659,TERR-0659,Region 0659,United Kingdom,Europe
+660,TERR-0660,Region 0660,United Kingdom,Pacific
+661,TERR-0661,Region 0661,Germany,North America
+662,TERR-0662,Region 0662,Germany,North America
+663,TERR-0663,Region 0663,Australia,Europe
+664,TERR-0664,Region 0664,India,Europe
+665,TERR-0665,Region 0665,United States,Europe
+666,TERR-0666,Region 0666,United Kingdom,Europe
+667,TERR-0667,Region 0667,United Kingdom,North America
+668,TERR-0668,Region 0668,Canada,Pacific
+669,TERR-0669,Region 0669,Canada,Europe
+670,TERR-0670,Region 0670,United States,Europe
+671,TERR-0671,Region 0671,India,Pacific
+672,TERR-0672,Region 0672,India,Pacific
+673,TERR-0673,Region 0673,Canada,North America
+674,TERR-0674,Region 0674,France,Pacific
+675,TERR-0675,Region 0675,Canada,North America
+676,TERR-0676,Region 0676,United States,Pacific
+677,TERR-0677,Region 0677,Germany,Pacific
+678,TERR-0678,Region 0678,United States,Europe
+679,TERR-0679,Region 0679,United States,North America
+680,TERR-0680,Region 0680,Australia,Pacific
+681,TERR-0681,Region 0681,India,Europe
+682,TERR-0682,Region 0682,United Kingdom,Pacific
+683,TERR-0683,Region 0683,Germany,North America
+684,TERR-0684,Region 0684,United Kingdom,Europe
+685,TERR-0685,Region 0685,France,North America
+686,TERR-0686,Region 0686,India,Pacific
+687,TERR-0687,Region 0687,United Kingdom,Europe
+688,TERR-0688,Region 0688,Canada,North America
+689,TERR-0689,Region 0689,United States,Europe
+690,TERR-0690,Region 0690,Germany,North America
+691,TERR-0691,Region 0691,India,Europe
+692,TERR-0692,Region 0692,Australia,Pacific
+693,TERR-0693,Region 0693,India,Europe
+694,TERR-0694,Region 0694,India,Europe
+695,TERR-0695,Region 0695,India,North America
+696,TERR-0696,Region 0696,Canada,Europe
+697,TERR-0697,Region 0697,Canada,Pacific
+698,TERR-0698,Region 0698,United Kingdom,Pacific
+699,TERR-0699,Region 0699,Germany,Pacific
+700,TERR-0700,Region 0700,Australia,Europe
+701,TERR-0701,Region 0701,Australia,North America
+702,TERR-0702,Region 0702,Germany,North America
+703,TERR-0703,Region 0703,Australia,North America
+704,TERR-0704,Region 0704,France,North America
+705,TERR-0705,Region 0705,United Kingdom,Pacific
+706,TERR-0706,Region 0706,United States,Europe
+707,TERR-0707,Region 0707,Canada,Pacific
+708,TERR-0708,Region 0708,Australia,North America
+709,TERR-0709,Region 0709,Germany,Pacific
+710,TERR-0710,Region 0710,India,North America
+711,TERR-0711,Region 0711,France,Pacific
+712,TERR-0712,Region 0712,United States,Pacific
+713,TERR-0713,Region 0713,Australia,North America
+714,TERR-0714,Region 0714,Germany,North America
+715,TERR-0715,Region 0715,Australia,Europe
+716,TERR-0716,Region 0716,United Kingdom,Europe
+717,TERR-0717,Region 0717,Germany,Europe
+718,TERR-0718,Region 0718,France,North America
+719,TERR-0719,Region 0719,United Kingdom,Europe
+720,TERR-0720,Region 0720,Australia,Europe
+721,TERR-0721,Region 0721,Germany,Europe
+722,TERR-0722,Region 0722,United Kingdom,Europe
+723,TERR-0723,Region 0723,United States,Europe
+724,TERR-0724,Region 0724,Germany,Europe
+725,TERR-0725,Region 0725,Germany,Europe
+726,TERR-0726,Region 0726,United Kingdom,Europe
+727,TERR-0727,Region 0727,India,North America
+728,TERR-0728,Region 0728,Germany,North America
+729,TERR-0729,Region 0729,France,Europe
+730,TERR-0730,Region 0730,Germany,North America
+731,TERR-0731,Region 0731,United Kingdom,North America
+732,TERR-0732,Region 0732,India,North America
+733,TERR-0733,Region 0733,Germany,Europe
+734,TERR-0734,Region 0734,United Kingdom,Europe
+735,TERR-0735,Region 0735,United Kingdom,North America
+736,TERR-0736,Region 0736,Australia,North America
+737,TERR-0737,Region 0737,Germany,Europe
+738,TERR-0738,Region 0738,Australia,North America
+739,TERR-0739,Region 0739,India,Pacific
+740,TERR-0740,Region 0740,India,North America
+741,TERR-0741,Region 0741,France,Europe
+742,TERR-0742,Region 0742,India,Pacific
+743,TERR-0743,Region 0743,United States,North America
+744,TERR-0744,Region 0744,Canada,Europe
+745,TERR-0745,Region 0745,United Kingdom,Europe
+746,TERR-0746,Region 0746,Germany,Europe
+747,TERR-0747,Region 0747,France,Pacific
+748,TERR-0748,Region 0748,Germany,Europe
+749,TERR-0749,Region 0749,United Kingdom,Europe
+750,TERR-0750,Region 0750,India,Europe
+751,TERR-0751,Region 0751,United States,Europe
+752,TERR-0752,Region 0752,United Kingdom,North America
+753,TERR-0753,Region 0753,Canada,Pacific
+754,TERR-0754,Region 0754,Australia,Europe
+755,TERR-0755,Region 0755,Canada,North America
+756,TERR-0756,Region 0756,Australia,Europe
+757,TERR-0757,Region 0757,United States,North America
+758,TERR-0758,Region 0758,Germany,Europe
+759,TERR-0759,Region 0759,Canada,North America
+760,TERR-0760,Region 0760,Germany,North America
+761,TERR-0761,Region 0761,United States,North America
+762,TERR-0762,Region 0762,France,Pacific
+763,TERR-0763,Region 0763,India,North America
+764,TERR-0764,Region 0764,United Kingdom,Pacific
+765,TERR-0765,Region 0765,Germany,Europe
+766,TERR-0766,Region 0766,Germany,North America
+767,TERR-0767,Region 0767,Germany,Pacific
+768,TERR-0768,Region 0768,France,Pacific
+769,TERR-0769,Region 0769,France,North America
+770,TERR-0770,Region 0770,United Kingdom,North America
+771,TERR-0771,Region 0771,United Kingdom,Pacific
+772,TERR-0772,Region 0772,United States,North America
+773,TERR-0773,Region 0773,United States,Pacific
+774,TERR-0774,Region 0774,United States,North America
+775,TERR-0775,Region 0775,India,Pacific
+776,TERR-0776,Region 0776,India,Pacific
+777,TERR-0777,Region 0777,United States,North America
+778,TERR-0778,Region 0778,Canada,North America
+779,TERR-0779,Region 0779,United States,North America
+780,TERR-0780,Region 0780,United Kingdom,Pacific
+781,TERR-0781,Region 0781,United States,Europe
+782,TERR-0782,Region 0782,Australia,Europe
+783,TERR-0783,Region 0783,United States,Europe
+784,TERR-0784,Region 0784,Germany,Europe
+785,TERR-0785,Region 0785,France,North America
+786,TERR-0786,Region 0786,Germany,Europe
+787,TERR-0787,Region 0787,Germany,Europe
+788,TERR-0788,Region 0788,Germany,North America
+789,TERR-0789,Region 0789,France,Europe
+790,TERR-0790,Region 0790,France,Pacific
+791,TERR-0791,Region 0791,United Kingdom,Europe
+792,TERR-0792,Region 0792,India,Europe
+793,TERR-0793,Region 0793,Canada,Pacific
+794,TERR-0794,Region 0794,Germany,Europe
+795,TERR-0795,Region 0795,United States,Pacific
+796,TERR-0796,Region 0796,Canada,North America
+797,TERR-0797,Region 0797,Canada,Pacific
+798,TERR-0798,Region 0798,Germany,Pacific
+799,TERR-0799,Region 0799,Canada,Pacific
+800,TERR-0800,Region 0800,France,Pacific
+801,TERR-0801,Region 0801,Australia,Europe
+802,TERR-0802,Region 0802,India,Europe
+803,TERR-0803,Region 0803,Australia,Europe
+804,TERR-0804,Region 0804,Australia,Europe
+805,TERR-0805,Region 0805,Canada,Pacific
+806,TERR-0806,Region 0806,United Kingdom,Europe
+807,TERR-0807,Region 0807,India,Pacific
+808,TERR-0808,Region 0808,Canada,Europe
+809,TERR-0809,Region 0809,France,Europe
+810,TERR-0810,Region 0810,United States,North America
+811,TERR-0811,Region 0811,United Kingdom,Pacific
+812,TERR-0812,Region 0812,United States,Pacific
+813,TERR-0813,Region 0813,France,North America
+814,TERR-0814,Region 0814,Canada,North America
+815,TERR-0815,Region 0815,United States,Pacific
+816,TERR-0816,Region 0816,United States,North America
+817,TERR-0817,Region 0817,France,Europe
+818,TERR-0818,Region 0818,France,North America
+819,TERR-0819,Region 0819,United Kingdom,Pacific
+820,TERR-0820,Region 0820,India,North America
+821,TERR-0821,Region 0821,United Kingdom,Europe
+822,TERR-0822,Region 0822,Germany,Europe
+823,TERR-0823,Region 0823,Germany,Europe
+824,TERR-0824,Region 0824,Australia,Pacific
+825,TERR-0825,Region 0825,France,Europe
+826,TERR-0826,Region 0826,United Kingdom,Europe
+827,TERR-0827,Region 0827,France,North America
+828,TERR-0828,Region 0828,Canada,Europe
+829,TERR-0829,Region 0829,France,North America
+830,TERR-0830,Region 0830,Germany,Europe
+831,TERR-0831,Region 0831,Australia,Pacific
+832,TERR-0832,Region 0832,United States,Europe
+833,TERR-0833,Region 0833,Germany,North America
+834,TERR-0834,Region 0834,India,Pacific
+835,TERR-0835,Region 0835,France,Pacific
+836,TERR-0836,Region 0836,United Kingdom,Pacific
+837,TERR-0837,Region 0837,United Kingdom,North America
+838,TERR-0838,Region 0838,Canada,Pacific
+839,TERR-0839,Region 0839,Canada,Europe
+840,TERR-0840,Region 0840,United States,Pacific
+841,TERR-0841,Region 0841,United Kingdom,Pacific
+842,TERR-0842,Region 0842,Australia,Pacific
+843,TERR-0843,Region 0843,France,North America
+844,TERR-0844,Region 0844,United States,Europe
+845,TERR-0845,Region 0845,United Kingdom,Pacific
+846,TERR-0846,Region 0846,France,Europe
+847,TERR-0847,Region 0847,United States,Pacific
+848,TERR-0848,Region 0848,United States,Pacific
+849,TERR-0849,Region 0849,France,North America
+850,TERR-0850,Region 0850,United Kingdom,North America
+851,TERR-0851,Region 0851,Canada,Europe
+852,TERR-0852,Region 0852,United States,Europe
+853,TERR-0853,Region 0853,Canada,Europe
+854,TERR-0854,Region 0854,France,Pacific
+855,TERR-0855,Region 0855,France,North America
+856,TERR-0856,Region 0856,India,Europe
+857,TERR-0857,Region 0857,India,North America
+858,TERR-0858,Region 0858,India,North America
+859,TERR-0859,Region 0859,India,Europe
+860,TERR-0860,Region 0860,Australia,Europe
+861,TERR-0861,Region 0861,United Kingdom,Europe
+862,TERR-0862,Region 0862,France,North America
+863,TERR-0863,Region 0863,France,Pacific
+864,TERR-0864,Region 0864,United Kingdom,Europe
+865,TERR-0865,Region 0865,United States,Europe
+866,TERR-0866,Region 0866,Germany,Europe
+867,TERR-0867,Region 0867,United States,Europe
+868,TERR-0868,Region 0868,Germany,Europe
+869,TERR-0869,Region 0869,France,North America
+870,TERR-0870,Region 0870,United States,Europe
+871,TERR-0871,Region 0871,Germany,Europe
+872,TERR-0872,Region 0872,United States,North America
+873,TERR-0873,Region 0873,Canada,Pacific
+874,TERR-0874,Region 0874,Australia,Europe
+875,TERR-0875,Region 0875,India,North America
+876,TERR-0876,Region 0876,United States,North America
+877,TERR-0877,Region 0877,United States,North America
+878,TERR-0878,Region 0878,United Kingdom,Europe
+879,TERR-0879,Region 0879,India,Pacific
+880,TERR-0880,Region 0880,Canada,Europe
+881,TERR-0881,Region 0881,United Kingdom,Europe
+882,TERR-0882,Region 0882,United Kingdom,North America
+883,TERR-0883,Region 0883,France,North America
+884,TERR-0884,Region 0884,India,Pacific
+885,TERR-0885,Region 0885,France,North America
+886,TERR-0886,Region 0886,Australia,Europe
+887,TERR-0887,Region 0887,Germany,Europe
+888,TERR-0888,Region 0888,India,North America
+889,TERR-0889,Region 0889,Australia,Pacific
+890,TERR-0890,Region 0890,Australia,Europe
+891,TERR-0891,Region 0891,Australia,Europe
+892,TERR-0892,Region 0892,Canada,North America
+893,TERR-0893,Region 0893,India,Pacific
+894,TERR-0894,Region 0894,Australia,North America
+895,TERR-0895,Region 0895,France,North America
+896,TERR-0896,Region 0896,France,Pacific
+897,TERR-0897,Region 0897,Australia,Europe
+898,TERR-0898,Region 0898,Canada,Pacific
+899,TERR-0899,Region 0899,Germany,North America
+900,TERR-0900,Region 0900,India,Pacific
+901,TERR-0901,Region 0901,United Kingdom,Pacific
+902,TERR-0902,Region 0902,Germany,Europe
+903,TERR-0903,Region 0903,India,North America
+904,TERR-0904,Region 0904,India,Pacific
+905,TERR-0905,Region 0905,Germany,North America
+906,TERR-0906,Region 0906,United Kingdom,Pacific
+907,TERR-0907,Region 0907,Germany,North America
+908,TERR-0908,Region 0908,United States,North America
+909,TERR-0909,Region 0909,Germany,North America
+910,TERR-0910,Region 0910,India,North America
+911,TERR-0911,Region 0911,India,Pacific
+912,TERR-0912,Region 0912,Germany,Europe
+913,TERR-0913,Region 0913,Canada,North America
+914,TERR-0914,Region 0914,Germany,Europe
+915,TERR-0915,Region 0915,United States,Pacific
+916,TERR-0916,Region 0916,India,Europe
+917,TERR-0917,Region 0917,Germany,Pacific
+918,TERR-0918,Region 0918,United States,North America
+919,TERR-0919,Region 0919,India,Europe
+920,TERR-0920,Region 0920,Germany,Pacific
+921,TERR-0921,Region 0921,Australia,Pacific
+922,TERR-0922,Region 0922,India,North America
+923,TERR-0923,Region 0923,United States,Europe
+924,TERR-0924,Region 0924,France,Pacific
+925,TERR-0925,Region 0925,France,North America
+926,TERR-0926,Region 0926,Germany,Europe
+927,TERR-0927,Region 0927,United States,Europe
+928,TERR-0928,Region 0928,Australia,North America
+929,TERR-0929,Region 0929,Germany,Pacific
+930,TERR-0930,Region 0930,India,Pacific
+931,TERR-0931,Region 0931,France,Europe
+932,TERR-0932,Region 0932,India,Europe
+933,TERR-0933,Region 0933,India,North America
+934,TERR-0934,Region 0934,Canada,Pacific
+935,TERR-0935,Region 0935,Germany,Pacific
+936,TERR-0936,Region 0936,Australia,Pacific
+937,TERR-0937,Region 0937,Germany,Europe
+938,TERR-0938,Region 0938,United Kingdom,North America
+939,TERR-0939,Region 0939,United Kingdom,North America
+940,TERR-0940,Region 0940,United States,North America
+941,TERR-0941,Region 0941,India,North America
+942,TERR-0942,Region 0942,Germany,North America
+943,TERR-0943,Region 0943,United Kingdom,Europe
+944,TERR-0944,Region 0944,Canada,North America
+945,TERR-0945,Region 0945,Australia,North America
+946,TERR-0946,Region 0946,Germany,Pacific
+947,TERR-0947,Region 0947,Canada,Europe
+948,TERR-0948,Region 0948,Australia,Pacific
+949,TERR-0949,Region 0949,United Kingdom,North America
+950,TERR-0950,Region 0950,Germany,Europe
+951,TERR-0951,Region 0951,France,Europe
+952,TERR-0952,Region 0952,Germany,Pacific
+953,TERR-0953,Region 0953,Germany,Europe
+954,TERR-0954,Region 0954,Germany,Pacific
+955,TERR-0955,Region 0955,Germany,Pacific
+956,TERR-0956,Region 0956,Australia,North America
+957,TERR-0957,Region 0957,United Kingdom,North America
+958,TERR-0958,Region 0958,France,North America
+959,TERR-0959,Region 0959,United States,Pacific
+960,TERR-0960,Region 0960,Canada,Pacific
+961,TERR-0961,Region 0961,Germany,Europe
+962,TERR-0962,Region 0962,Germany,Pacific
+963,TERR-0963,Region 0963,India,Pacific
+964,TERR-0964,Region 0964,Australia,North America
+965,TERR-0965,Region 0965,France,Pacific
+966,TERR-0966,Region 0966,United Kingdom,Europe
+967,TERR-0967,Region 0967,United States,Europe
+968,TERR-0968,Region 0968,India,North America
+969,TERR-0969,Region 0969,Canada,Pacific
+970,TERR-0970,Region 0970,Australia,Europe
+971,TERR-0971,Region 0971,Australia,North America
+972,TERR-0972,Region 0972,United Kingdom,Europe
+973,TERR-0973,Region 0973,France,North America
+974,TERR-0974,Region 0974,Canada,North America
+975,TERR-0975,Region 0975,India,Europe
+976,TERR-0976,Region 0976,United Kingdom,Pacific
+977,TERR-0977,Region 0977,France,North America
+978,TERR-0978,Region 0978,France,Europe
+979,TERR-0979,Region 0979,United States,North America
+980,TERR-0980,Region 0980,India,Pacific
+981,TERR-0981,Region 0981,India,Pacific
+982,TERR-0982,Region 0982,United Kingdom,Europe
+983,TERR-0983,Region 0983,Germany,Pacific
+984,TERR-0984,Region 0984,Germany,Europe
+985,TERR-0985,Region 0985,Germany,Europe
+986,TERR-0986,Region 0986,India,North America
+987,TERR-0987,Region 0987,India,Pacific
+988,TERR-0988,Region 0988,Germany,North America
+989,TERR-0989,Region 0989,Germany,Pacific
+990,TERR-0990,Region 0990,India,Pacific
+991,TERR-0991,Region 0991,Germany,Pacific
+992,TERR-0992,Region 0992,United States,Europe
+993,TERR-0993,Region 0993,India,Europe
+994,TERR-0994,Region 0994,United Kingdom,North America
+995,TERR-0995,Region 0995,Canada,North America
+996,TERR-0996,Region 0996,Germany,Pacific
+997,TERR-0997,Region 0997,United States,North America
+998,TERR-0998,Region 0998,Germany,Pacific
+999,TERR-0999,Region 0999,United Kingdom,Pacific
+1000,TERR-1000,Region 1000,Germany,North America

@@ -1,0 +1,1001 @@
+CustomerKey,CustomerAlternateKey,FirstName,LastName,BirthDate,Gender,EmailAddress,City,StateProvinceName,CountryRegionName,PostalCode
+1,CUST-00001,Mia,Clark,1997-10-04,M,customer1@example.com,Austin,Ontario,Australia,53624
+2,CUST-00002,Charlotte,Martin,1962-09-01,M,customer2@example.com,Seattle,Queensland,Germany,14384
+3,CUST-00003,Amelia,Anderson,1977-02-03,M,customer3@example.com,Bengaluru,Queensland,Canada,98097
+4,CUST-00004,Lucas,Hall,1994-04-23,M,customer4@example.com,Sydney,Queensland,United States,11484
+5,CUST-00005,Lucas,Smith,1965-07-19,F,customer5@example.com,Munich,Ontario,Canada,12347
+6,CUST-00006,Harper,Lewis,1978-08-31,F,customer6@example.com,Toronto,Karnataka,United Kingdom,52612
+7,CUST-00007,Mia,Hall,1966-07-20,F,customer7@example.com,Paris,Ontario,Canada,10326
+8,CUST-00008,Amelia,Taylor,1993-11-13,F,customer8@example.com,Toronto,California,United Kingdom,24793
+9,CUST-00009,Liam,Martin,1987-03-10,M,customer9@example.com,Munich,California,United Kingdom,66494
+10,CUST-00010,Mia,Taylor,1976-11-23,M,customer10@example.com,Seattle,Île-de-France,France,73460
+11,CUST-00011,Arjun,Williams,1966-08-02,M,customer11@example.com,Seattle,Île-de-France,United States,36835
+12,CUST-00012,Grace,Lee,1999-08-22,M,customer12@example.com,Paris,Queensland,India,81578
+13,CUST-00013,Ravi,Brown,1987-11-07,M,customer13@example.com,Paris,Texas,Germany,64693
+14,CUST-00014,Charlotte,Jones,1973-09-21,F,customer14@example.com,New York,Bavaria,India,30546
+15,CUST-00015,Ravi,Taylor,1977-10-19,F,customer15@example.com,London,Texas,France,74119
+16,CUST-00016,Charlotte,Clark,1991-03-24,F,customer16@example.com,Seattle,New York,United States,63295
+17,CUST-00017,Arjun,Miller,1979-10-30,M,customer17@example.com,New York,Washington,Canada,83089
+18,CUST-00018,Noah,Wilson,1973-01-09,F,customer18@example.com,Bengaluru,California,United Kingdom,23899
+19,CUST-00019,Leo,Sharma,1988-05-18,M,customer19@example.com,London,Bavaria,India,30776
+20,CUST-00020,Isabella,Smith,1988-04-21,M,customer20@example.com,Munich,Ontario,India,37322
+21,CUST-00021,Arjun,Patel,1985-10-14,M,customer21@example.com,New York,Washington,France,40727
+22,CUST-00022,Sophia,Patel,1980-04-30,F,customer22@example.com,London,Ontario,Canada,89990
+23,CUST-00023,Olivia,Hall,1986-05-26,M,customer23@example.com,Munich,California,United Kingdom,75928
+24,CUST-00024,Ishaan,Clark,2000-11-07,M,customer24@example.com,Paris,New York,France,58968
+25,CUST-00025,Charlotte,Clark,1982-08-07,M,customer25@example.com,Sydney,Ontario,India,58640
+26,CUST-00026,Daniel,Patel,1974-09-26,M,customer26@example.com,Bengaluru,New York,Germany,89729
+27,CUST-00027,Lucas,Patel,1983-11-25,M,customer27@example.com,London,Bavaria,Australia,50211
+28,CUST-00028,Leo,Williams,1967-08-15,M,customer28@example.com,New York,Washington,Australia,30272
+29,CUST-00029,Arjun,Anderson,1963-11-25,M,customer29@example.com,New York,Texas,Canada,22320
+30,CUST-00030,Lucas,Jones,1989-02-27,M,customer30@example.com,New York,Ontario,Germany,39701
+31,CUST-00031,Isabella,Wilson,2002-05-28,M,customer31@example.com,Munich,Bavaria,United Kingdom,68795
+32,CUST-00032,Liam,Johnson,1996-05-18,M,customer32@example.com,Seattle,New York,France,52385
+33,CUST-00033,Mia,Martin,1985-02-04,F,customer33@example.com,Toronto,California,United Kingdom,47960
+34,CUST-00034,Emma,Jones,1961-09-24,M,customer34@example.com,Sydney,Île-de-France,Australia,53206
+35,CUST-00035,Harper,Patel,2002-06-26,F,customer35@example.com,New York,New York,Canada,97737
+36,CUST-00036,Mia,Martin,1979-05-02,F,customer36@example.com,Sydney,Texas,India,99787
+37,CUST-00037,Harper,Lewis,1972-06-15,M,customer37@example.com,Sydney,Queensland,India,24516
+38,CUST-00038,Leo,Sharma,1998-05-18,M,customer38@example.com,Austin,Washington,France,20299
+39,CUST-00039,Ava,Davis,1992-02-05,M,customer39@example.com,Paris,Île-de-France,Germany,31987
+40,CUST-00040,Daniel,Clark,1992-03-26,M,customer40@example.com,Toronto,Washington,United Kingdom,86676
+41,CUST-00041,Olivia,Martin,1971-12-11,M,customer41@example.com,Seattle,Ontario,United Kingdom,51355
+42,CUST-00042,Charlotte,Hall,2002-08-25,M,customer42@example.com,New York,Ontario,France,87730
+43,CUST-00043,Ravi,Davis,1979-06-22,M,customer43@example.com,Austin,Washington,Australia,68206
+44,CUST-00044,Sophia,Miller,1982-11-07,M,customer44@example.com,Seattle,Ontario,United States,59787
+45,CUST-00045,Mia,Martin,1992-04-16,F,customer45@example.com,Seattle,California,Germany,35336
+46,CUST-00046,Grace,Johnson,1988-05-18,M,customer46@example.com,Sydney,Queensland,India,40963
+47,CUST-00047,Lucas,Brown,1967-05-29,F,customer47@example.com,Seattle,Karnataka,United States,23294
+48,CUST-00048,Harper,Thomas,1973-01-02,M,customer48@example.com,Paris,Île-de-France,Germany,56729
+49,CUST-00049,Amelia,Moore,2000-09-28,F,customer49@example.com,Sydney,Washington,India,35233
+50,CUST-00050,Charlotte,Smith,1975-10-02,M,customer50@example.com,London,Washington,India,36321
+51,CUST-00051,Charlotte,Taylor,1991-08-05,F,customer51@example.com,Seattle,Ontario,France,13559
+52,CUST-00052,Olivia,Miller,1991-10-04,F,customer52@example.com,Sydney,Karnataka,Australia,81918
+53,CUST-00053,Sophia,Taylor,1976-12-13,M,customer53@example.com,Austin,Île-de-France,Australia,94532
+54,CUST-00054,Isabella,Young,1977-05-02,F,customer54@example.com,New York,California,India,54844
+55,CUST-00055,Isabella,Patel,1998-06-15,M,customer55@example.com,London,Washington,United Kingdom,58242
+56,CUST-00056,Aarav,Young,1984-02-27,M,customer56@example.com,Sydney,Washington,United Kingdom,93324
+57,CUST-00057,Arjun,Davis,1966-06-06,F,customer57@example.com,Seattle,Washington,Germany,56032
+58,CUST-00058,Olivia,Lee,1990-12-13,F,customer58@example.com,Austin,Ontario,United Kingdom,66041
+59,CUST-00059,Ravi,Davis,1985-05-08,M,customer59@example.com,Austin,Bavaria,Australia,48528
+60,CUST-00060,Amelia,Jones,1981-11-19,F,customer60@example.com,Seattle,California,United Kingdom,56288
+61,CUST-00061,Ishaan,Lee,1991-03-07,F,customer61@example.com,Munich,Bavaria,United Kingdom,56967
+62,CUST-00062,Ravi,Moore,1974-03-17,F,customer62@example.com,New York,Queensland,India,73995
+63,CUST-00063,Sophia,Smith,1978-01-11,M,customer63@example.com,New York,Queensland,Germany,64376
+64,CUST-00064,Grace,Martin,1968-02-24,F,customer64@example.com,London,Karnataka,Australia,55353
+65,CUST-00065,Lucas,Lee,1987-10-28,M,customer65@example.com,Paris,Texas,United States,16825
+66,CUST-00066,Ethan,Miller,1977-04-26,F,customer66@example.com,Sydney,Karnataka,United Kingdom,91404
+67,CUST-00067,Ishaan,Lewis,1974-09-21,F,customer67@example.com,Seattle,Washington,United Kingdom,89944
+68,CUST-00068,Sophia,Thomas,1989-12-13,F,customer68@example.com,Seattle,Ontario,France,26599
+69,CUST-00069,Mia,Jones,1977-07-20,F,customer69@example.com,Sydney,Karnataka,Canada,36397
+70,CUST-00070,Isabella,Sharma,1979-12-20,F,customer70@example.com,Toronto,Queensland,Canada,97600
+71,CUST-00071,Charlotte,Moore,1978-12-03,M,customer71@example.com,Seattle,Washington,United States,38895
+72,CUST-00072,Olivia,Brown,1971-02-12,M,customer72@example.com,New York,New York,Australia,83096
+73,CUST-00073,Isabella,Lee,1965-05-29,F,customer73@example.com,Munich,Ontario,France,80716
+74,CUST-00074,Noah,Taylor,1995-07-28,M,customer74@example.com,Sydney,California,Canada,87465
+75,CUST-00075,Amelia,Wilson,1963-12-11,F,customer75@example.com,New York,Karnataka,India,11440
+76,CUST-00076,Isabella,Johnson,1973-12-20,M,customer76@example.com,New York,California,United Kingdom,53461
+77,CUST-00077,Ethan,Martin,1988-09-13,F,customer77@example.com,New York,Ontario,United Kingdom,60895
+78,CUST-00078,Liam,Johnson,1988-03-09,M,customer78@example.com,London,Queensland,Germany,85347
+79,CUST-00079,Emma,Davis,1991-07-10,M,customer79@example.com,Paris,California,United States,30201
+80,CUST-00080,Amelia,Clark,1988-07-03,M,customer80@example.com,Sydney,Île-de-France,Australia,37609
+81,CUST-00081,Ishaan,Lewis,1973-02-11,M,customer81@example.com,Munich,New York,Canada,26190
+82,CUST-00082,Lucas,Young,1960-11-06,M,customer82@example.com,Paris,California,United States,78574
+83,CUST-00083,Olivia,Young,1998-02-26,M,customer83@example.com,Austin,Queensland,Australia,99897
+84,CUST-00084,Leo,Anderson,1974-01-15,F,customer84@example.com,Sydney,Queensland,France,22640
+85,CUST-00085,Daniel,Brown,1968-07-03,F,customer85@example.com,Austin,Queensland,United States,30980
+86,CUST-00086,Ravi,Clark,1966-12-25,F,customer86@example.com,London,Karnataka,Germany,37634
+87,CUST-00087,Mia,Clark,1993-06-17,F,customer87@example.com,Toronto,Ontario,Australia,90011
+88,CUST-00088,Ethan,Young,2000-05-29,F,customer88@example.com,Paris,Bavaria,Germany,50115
+89,CUST-00089,Charlotte,Moore,1997-01-03,F,customer89@example.com,Paris,New York,United States,35373
+90,CUST-00090,Leo,Smith,1992-04-21,M,customer90@example.com,Toronto,Ontario,France,39008
+91,CUST-00091,Lucas,Taylor,1970-08-10,F,customer91@example.com,London,Texas,United States,63830
+92,CUST-00092,Leo,Davis,1988-09-19,M,customer92@example.com,Sydney,Queensland,France,44831
+93,CUST-00093,Leo,Clark,1967-05-28,M,customer93@example.com,New York,Washington,India,22636
+94,CUST-00094,Sophia,Miller,1965-07-24,F,customer94@example.com,New York,Karnataka,Canada,83808
+95,CUST-00095,Harper,Jones,1997-06-17,M,customer95@example.com,London,Bavaria,United States,48000
+96,CUST-00096,Ava,Patel,1971-10-31,F,customer96@example.com,Austin,Bavaria,India,33100
+97,CUST-00097,Liam,Clark,1992-12-07,F,customer97@example.com,Munich,Île-de-France,United States,75558
+98,CUST-00098,Amelia,Lee,1965-12-17,F,customer98@example.com,London,Texas,India,77074
+99,CUST-00099,Daniel,Sharma,1972-01-24,F,customer99@example.com,Austin,Texas,Germany,23953
+100,CUST-00100,Noah,Davis,1972-03-10,F,customer100@example.com,Seattle,Île-de-France,United Kingdom,16634
+101,CUST-00101,Leo,Wilson,1972-02-02,M,customer101@example.com,Toronto,New York,United Kingdom,14087
+102,CUST-00102,Olivia,Wilson,1989-01-05,F,customer102@example.com,Toronto,California,United Kingdom,78915
+103,CUST-00103,Leo,Lewis,1999-04-27,M,customer103@example.com,Bengaluru,Washington,United Kingdom,66316
+104,CUST-00104,Aarav,Johnson,1999-02-22,M,customer104@example.com,Austin,Bavaria,United States,81281
+105,CUST-00105,Charlotte,Jones,1991-11-20,M,customer105@example.com,Munich,New York,United Kingdom,66375
+106,CUST-00106,Charlotte,Johnson,1968-09-15,M,customer106@example.com,Munich,California,India,46152
+107,CUST-00107,Charlotte,Brown,2001-04-21,F,customer107@example.com,Sydney,Karnataka,Canada,63059
+108,CUST-00108,Amelia,Lewis,1983-04-23,M,customer108@example.com,Austin,Texas,Germany,75022
+109,CUST-00109,Isabella,Lewis,1983-06-23,F,customer109@example.com,Sydney,New York,Germany,45895
+110,CUST-00110,Ravi,Sharma,1990-02-28,F,customer110@example.com,Munich,California,Germany,92361
+111,CUST-00111,Ava,Thomas,1993-01-26,F,customer111@example.com,Toronto,Queensland,Australia,90963
+112,CUST-00112,Charlotte,Brown,2000-12-22,F,customer112@example.com,London,Ontario,Canada,82063
+113,CUST-00113,Emma,Johnson,1985-01-15,M,customer113@example.com,Sydney,Bavaria,France,99303
+114,CUST-00114,Isabella,Williams,1986-03-26,M,customer114@example.com,Toronto,New York,United Kingdom,45139
+115,CUST-00115,Arjun,Johnson,1992-01-22,F,customer115@example.com,Toronto,Texas,Australia,20269
+116,CUST-00116,Emma,Wilson,1970-12-20,F,customer116@example.com,Toronto,Texas,Australia,53578
+117,CUST-00117,Aarav,Young,1973-03-25,F,customer117@example.com,London,Texas,Germany,77129
+118,CUST-00118,Noah,Anderson,1986-11-23,M,customer118@example.com,Munich,Ontario,Australia,80141
+119,CUST-00119,Liam,Martin,1962-10-04,M,customer119@example.com,Sydney,California,Germany,44966
+120,CUST-00120,Noah,Wilson,1973-10-12,M,customer120@example.com,Sydney,New York,France,36333
+121,CUST-00121,Lucas,Sharma,1990-11-15,M,customer121@example.com,Bengaluru,Bavaria,Canada,50092
+122,CUST-00122,Amelia,Patel,2001-12-22,M,customer122@example.com,Toronto,Karnataka,France,82348
+123,CUST-00123,Amelia,Williams,1982-05-04,F,customer123@example.com,Seattle,Queensland,United Kingdom,15453
+124,CUST-00124,Isabella,Brown,1977-03-09,M,customer124@example.com,Paris,Île-de-France,France,39526
+125,CUST-00125,Harper,Clark,1978-12-08,F,customer125@example.com,Seattle,Bavaria,United Kingdom,30688
+126,CUST-00126,Emma,Clark,1989-06-22,F,customer126@example.com,Bengaluru,Queensland,Germany,82538
+127,CUST-00127,Mia,Hall,1983-05-31,F,customer127@example.com,London,Bavaria,Canada,52268
+128,CUST-00128,Charlotte,Thomas,1960-12-30,M,customer128@example.com,Austin,Texas,France,17811
+129,CUST-00129,Emma,Anderson,1983-03-10,M,customer129@example.com,Seattle,Bavaria,United States,33560
+130,CUST-00130,Daniel,Thomas,1977-03-15,F,customer130@example.com,New York,Washington,Australia,13995
+131,CUST-00131,Emma,Davis,1990-02-18,M,customer131@example.com,Toronto,Karnataka,France,52799
+132,CUST-00132,Emma,Moore,1997-08-18,F,customer132@example.com,Toronto,Île-de-France,United States,99789
+133,CUST-00133,Mia,Lee,2001-05-21,F,customer133@example.com,Munich,Ontario,United Kingdom,61050
+134,CUST-00134,Emma,Lee,1986-03-29,M,customer134@example.com,Seattle,California,United States,88250
+135,CUST-00135,Charlotte,Thomas,1975-08-04,F,customer135@example.com,Bengaluru,New York,Canada,76832
+136,CUST-00136,Ethan,Patel,1979-02-02,M,customer136@example.com,Sydney,New York,Canada,89455
+137,CUST-00137,Daniel,Martin,2000-03-30,M,customer137@example.com,Sydney,Île-de-France,India,37991
+138,CUST-00138,Aarav,Miller,1996-06-07,F,customer138@example.com,Austin,Île-de-France,United Kingdom,95614
+139,CUST-00139,Ethan,Martin,1996-09-20,F,customer139@example.com,New York,Queensland,United Kingdom,31477
+140,CUST-00140,Lucas,Taylor,1974-02-09,M,customer140@example.com,London,Île-de-France,United Kingdom,49448
+141,CUST-00141,Grace,Hall,1973-11-08,F,customer141@example.com,Munich,New York,France,71313
+142,CUST-00142,Liam,Jones,1996-10-31,F,customer142@example.com,Munich,New York,France,35814
+143,CUST-00143,Ava,Lewis,1990-04-20,F,customer143@example.com,Toronto,Bavaria,United Kingdom,33800
+144,CUST-00144,Lucas,Clark,1981-01-23,M,customer144@example.com,Austin,Karnataka,United Kingdom,21702
+145,CUST-00145,Grace,Jones,1987-03-09,M,customer145@example.com,London,Ontario,United States,10378
+146,CUST-00146,Harper,Wilson,1994-12-16,F,customer146@example.com,Paris,Ontario,France,55108
+147,CUST-00147,Aarav,Taylor,1974-05-14,F,customer147@example.com,New York,Karnataka,India,98807
+148,CUST-00148,Liam,Lee,1970-07-02,F,customer148@example.com,New York,Karnataka,Germany,29804
+149,CUST-00149,Leo,Moore,1977-04-27,M,customer149@example.com,London,Ontario,Canada,49613
+150,CUST-00150,Mia,Hall,2001-01-15,M,customer150@example.com,Bengaluru,California,India,94198
+151,CUST-00151,Harper,Miller,1999-09-23,F,customer151@example.com,Austin,California,United States,79507
+152,CUST-00152,Ava,Taylor,1973-08-03,M,customer152@example.com,Munich,Texas,India,10360
+153,CUST-00153,Ishaan,Davis,1996-04-06,M,customer153@example.com,Toronto,Ontario,India,55053
+154,CUST-00154,Ava,Lewis,2000-04-02,F,customer154@example.com,Munich,Queensland,Canada,22887
+155,CUST-00155,Lucas,Jones,2002-01-23,F,customer155@example.com,Munich,Bavaria,India,32231
+156,CUST-00156,Amelia,Anderson,1960-11-24,M,customer156@example.com,New York,Washington,India,32182
+157,CUST-00157,Noah,Smith,1992-01-13,M,customer157@example.com,Sydney,Bavaria,Australia,65122
+158,CUST-00158,Emma,Hall,2002-11-10,M,customer158@example.com,Toronto,Queensland,United Kingdom,27905
+159,CUST-00159,Arjun,Miller,1992-11-17,F,customer159@example.com,Sydney,California,United States,32667
+160,CUST-00160,Charlotte,Jones,1970-01-10,M,customer160@example.com,Austin,New York,France,30319
+161,CUST-00161,Grace,Anderson,1992-10-16,F,customer161@example.com,Austin,Washington,United Kingdom,42119
+162,CUST-00162,Amelia,Wilson,1980-08-31,M,customer162@example.com,Sydney,Bavaria,Canada,69043
+163,CUST-00163,Lucas,Clark,1986-12-05,F,customer163@example.com,Paris,Île-de-France,India,45996
+164,CUST-00164,Lucas,Taylor,1979-08-18,F,customer164@example.com,Sydney,Bavaria,United Kingdom,39475
+165,CUST-00165,Lucas,Taylor,1990-02-03,F,customer165@example.com,Paris,Ontario,Canada,56583
+166,CUST-00166,Leo,Smith,1970-04-30,F,customer166@example.com,Austin,Ontario,India,65351
+167,CUST-00167,Ethan,Sharma,1986-01-25,F,customer167@example.com,Sydney,Washington,India,11382
+168,CUST-00168,Olivia,Miller,1987-09-23,M,customer168@example.com,Bengaluru,Karnataka,India,90122
+169,CUST-00169,Ethan,Young,1987-04-03,F,customer169@example.com,Toronto,California,United States,92477
+170,CUST-00170,Aarav,Lewis,1972-06-10,F,customer170@example.com,Seattle,Washington,Australia,64229
+171,CUST-00171,Noah,Thomas,1973-02-17,F,customer171@example.com,Seattle,Texas,Australia,61713
+172,CUST-00172,Mia,Thomas,1971-02-01,M,customer172@example.com,New York,Ontario,India,72507
+173,CUST-00173,Charlotte,Miller,1985-03-13,F,customer173@example.com,Bengaluru,Washington,United Kingdom,49677
+174,CUST-00174,Ravi,Johnson,1975-08-03,M,customer174@example.com,London,Texas,United Kingdom,42894
+175,CUST-00175,Amelia,Sharma,1977-08-18,F,customer175@example.com,London,New York,Germany,41741
+176,CUST-00176,Isabella,Jones,1972-04-25,F,customer176@example.com,Seattle,Bavaria,India,24376
+177,CUST-00177,Ravi,Jones,1969-05-30,M,customer177@example.com,New York,Queensland,Germany,85704
+178,CUST-00178,Olivia,Johnson,1988-04-08,F,customer178@example.com,Seattle,Bavaria,United Kingdom,38852
+179,CUST-00179,Ishaan,Williams,1995-02-02,F,customer179@example.com,Munich,Île-de-France,France,35595
+180,CUST-00180,Arjun,Sharma,1972-07-01,M,customer180@example.com,London,Île-de-France,United Kingdom,96784
+181,CUST-00181,Ishaan,Thomas,1997-01-02,M,customer181@example.com,Toronto,New York,India,55603
+182,CUST-00182,Olivia,Lewis,1984-07-20,M,customer182@example.com,London,Bavaria,United Kingdom,65962
+183,CUST-00183,Isabella,Moore,1967-03-18,F,customer183@example.com,Paris,Île-de-France,France,32089
+184,CUST-00184,Amelia,Davis,1975-09-27,F,customer184@example.com,Seattle,Île-de-France,Canada,34975
+185,CUST-00185,Isabella,Davis,1960-04-27,F,customer185@example.com,Toronto,New York,Germany,75549
+186,CUST-00186,Lucas,Jones,1961-09-07,F,customer186@example.com,London,Washington,Canada,50581
+187,CUST-00187,Olivia,Smith,1974-06-15,F,customer187@example.com,London,Queensland,Germany,23296
+188,CUST-00188,Sophia,Anderson,1979-07-17,M,customer188@example.com,Austin,Île-de-France,Australia,85195
+189,CUST-00189,Liam,Anderson,1994-04-17,M,customer189@example.com,New York,Île-de-France,United States,46248
+190,CUST-00190,Ethan,Sharma,1965-10-10,M,customer190@example.com,Toronto,Queensland,United Kingdom,70159
+191,CUST-00191,Amelia,Davis,1996-02-01,M,customer191@example.com,Toronto,Texas,India,40714
+192,CUST-00192,Daniel,Williams,1970-01-31,F,customer192@example.com,Toronto,New York,United Kingdom,60458
+193,CUST-00193,Daniel,Johnson,1965-12-12,M,customer193@example.com,New York,Karnataka,United Kingdom,79805
+194,CUST-00194,Sophia,Martin,1990-02-04,M,customer194@example.com,Toronto,Queensland,Australia,89663
+195,CUST-00195,Grace,Taylor,1993-04-18,M,customer195@example.com,Toronto,New York,United Kingdom,28660
+196,CUST-00196,Mia,Thomas,1986-01-04,M,customer196@example.com,London,New York,United States,70518
+197,CUST-00197,Ethan,Martin,1964-12-22,M,customer197@example.com,London,California,India,92316
+198,CUST-00198,Noah,Young,1964-12-16,M,customer198@example.com,Seattle,Washington,India,67845
+199,CUST-00199,Ethan,Clark,1976-10-09,F,customer199@example.com,Bengaluru,Karnataka,Germany,22877
+200,CUST-00200,Grace,Thomas,1979-05-18,M,customer200@example.com,Seattle,Washington,France,27078
+201,CUST-00201,Sophia,Hall,2002-12-10,M,customer201@example.com,London,Île-de-France,United States,28252
+202,CUST-00202,Ishaan,Wilson,1972-04-26,M,customer202@example.com,Austin,California,Canada,19574
+203,CUST-00203,Isabella,Young,1968-04-12,F,customer203@example.com,London,Queensland,United Kingdom,77835
+204,CUST-00204,Amelia,Lee,2000-09-03,F,customer204@example.com,Munich,Ontario,France,96861
+205,CUST-00205,Isabella,Moore,1966-08-15,F,customer205@example.com,Bengaluru,Bavaria,Australia,56518
+206,CUST-00206,Ava,Lewis,1961-02-18,F,customer206@example.com,New York,Bavaria,United States,63896
+207,CUST-00207,Charlotte,Taylor,1978-03-07,F,customer207@example.com,Toronto,Ontario,India,79632
+208,CUST-00208,Grace,Martin,1977-03-31,F,customer208@example.com,New York,Queensland,United States,47411
+209,CUST-00209,Ava,Williams,1986-08-24,M,customer209@example.com,Seattle,Karnataka,United Kingdom,52520
+210,CUST-00210,Charlotte,Young,1997-09-28,F,customer210@example.com,Sydney,Ontario,Germany,63011
+211,CUST-00211,Ava,Thomas,2000-02-12,M,customer211@example.com,Paris,Texas,Australia,37417
+212,CUST-00212,Ravi,Lee,1972-06-15,M,customer212@example.com,Sydney,New York,Germany,15563
+213,CUST-00213,Charlotte,Wilson,2002-03-05,F,customer213@example.com,New York,Washington,Australia,61099
+214,CUST-00214,Lucas,Hall,1962-12-29,M,customer214@example.com,London,Ontario,Germany,83990
+215,CUST-00215,Ravi,Patel,2000-05-09,M,customer215@example.com,Seattle,Queensland,Australia,16590
+216,CUST-00216,Ava,Smith,1965-12-07,F,customer216@example.com,Munich,Texas,United States,29497
+217,CUST-00217,Mia,Taylor,1985-04-23,M,customer217@example.com,Seattle,Washington,United States,33669
+218,CUST-00218,Mia,Martin,1994-01-01,M,customer218@example.com,Munich,Bavaria,Germany,82408
+219,CUST-00219,Lucas,Clark,1970-09-22,F,customer219@example.com,Munich,New York,United States,55413
+220,CUST-00220,Ishaan,Davis,1971-08-21,F,customer220@example.com,Paris,Texas,Canada,58093
+221,CUST-00221,Noah,Thomas,1998-01-18,M,customer221@example.com,Sydney,Karnataka,United States,68073
+222,CUST-00222,Isabella,Anderson,1969-08-12,F,customer222@example.com,New York,Karnataka,Canada,34891
+223,CUST-00223,Ravi,Young,1988-07-12,F,customer223@example.com,Austin,Bavaria,India,74218
+224,CUST-00224,Liam,Moore,1979-06-18,M,customer224@example.com,Toronto,Karnataka,United Kingdom,12718
+225,CUST-00225,Ravi,Davis,1964-10-22,M,customer225@example.com,Austin,Île-de-France,Australia,20234
+226,CUST-00226,Ethan,Young,1990-07-27,M,customer226@example.com,Munich,Queensland,France,83424
+227,CUST-00227,Leo,Smith,1995-10-19,M,customer227@example.com,Munich,Washington,United States,69237
+228,CUST-00228,Emma,Young,1984-10-01,M,customer228@example.com,Paris,Bavaria,United States,25881
+229,CUST-00229,Arjun,Johnson,1967-08-01,M,customer229@example.com,Munich,Washington,United Kingdom,49487
+230,CUST-00230,Olivia,Williams,1966-09-11,M,customer230@example.com,London,Washington,Germany,14662
+231,CUST-00231,Isabella,Clark,1978-03-18,M,customer231@example.com,Seattle,Bavaria,Canada,70465
+232,CUST-00232,Harper,Martin,1981-10-10,M,customer232@example.com,New York,Bavaria,India,78028
+233,CUST-00233,Aarav,Young,1983-09-29,M,customer233@example.com,Sydney,New York,United States,35055
+234,CUST-00234,Charlotte,Martin,1970-06-23,M,customer234@example.com,Seattle,Karnataka,Germany,41503
+235,CUST-00235,Isabella,Thomas,1981-07-14,M,customer235@example.com,New York,Île-de-France,United States,31313
+236,CUST-00236,Ravi,Jones,1972-09-08,F,customer236@example.com,New York,Bavaria,India,45039
+237,CUST-00237,Amelia,Sharma,1989-07-03,M,customer237@example.com,Sydney,California,United Kingdom,34507
+238,CUST-00238,Lucas,Smith,1994-04-01,F,customer238@example.com,Munich,Queensland,France,32235
+239,CUST-00239,Ethan,Williams,1988-01-25,F,customer239@example.com,Seattle,Texas,Canada,48718
+240,CUST-00240,Daniel,Sharma,1960-01-20,F,customer240@example.com,Seattle,Bavaria,United Kingdom,87325
+241,CUST-00241,Noah,Taylor,2002-08-29,F,customer241@example.com,London,California,Canada,78645
+242,CUST-00242,Emma,Lee,1961-01-08,M,customer242@example.com,Bengaluru,Île-de-France,United States,36759
+243,CUST-00243,Mia,Young,2002-12-22,F,customer243@example.com,Austin,Texas,United Kingdom,94855
+244,CUST-00244,Daniel,Wilson,1961-05-14,M,customer244@example.com,Seattle,New York,India,28917
+245,CUST-00245,Daniel,Hall,1964-07-22,M,customer245@example.com,Munich,Washington,Canada,91965
+246,CUST-00246,Mia,Young,1964-02-04,M,customer246@example.com,Munich,Bavaria,Canada,37832
+247,CUST-00247,Charlotte,Hall,1989-05-21,M,customer247@example.com,Munich,New York,Germany,58623
+248,CUST-00248,Lucas,Wilson,1991-04-19,M,customer248@example.com,Paris,Karnataka,United States,28283
+249,CUST-00249,Charlotte,Jones,1965-01-31,M,customer249@example.com,Paris,California,Canada,78581
+250,CUST-00250,Aarav,Young,2001-12-30,F,customer250@example.com,Bengaluru,Ontario,United Kingdom,38588
+251,CUST-00251,Olivia,Brown,1973-10-12,F,customer251@example.com,Sydney,Île-de-France,Australia,88530
+252,CUST-00252,Isabella,Davis,1973-09-08,M,customer252@example.com,Paris,Île-de-France,Canada,17464
+253,CUST-00253,Olivia,Patel,1972-10-08,F,customer253@example.com,Toronto,Texas,United States,55179
+254,CUST-00254,Ethan,Lee,1979-10-31,M,customer254@example.com,Seattle,New York,United States,24267
+255,CUST-00255,Amelia,Thomas,1967-08-25,M,customer255@example.com,Munich,New York,Germany,90005
+256,CUST-00256,Noah,Patel,1978-04-07,F,customer256@example.com,London,Queensland,United States,47534
+257,CUST-00257,Amelia,Brown,1962-03-18,F,customer257@example.com,New York,Ontario,Germany,70701
+258,CUST-00258,Noah,Anderson,1975-11-09,M,customer258@example.com,Toronto,California,France,89151
+259,CUST-00259,Olivia,Taylor,1988-11-27,M,customer259@example.com,Paris,Karnataka,Australia,58206
+260,CUST-00260,Emma,Clark,1992-10-24,M,customer260@example.com,Seattle,Washington,Canada,15156
+261,CUST-00261,Charlotte,Williams,1975-03-12,M,customer261@example.com,Bengaluru,Washington,Germany,29864
+262,CUST-00262,Olivia,Lewis,1973-12-02,M,customer262@example.com,Sydney,Bavaria,France,29140
+263,CUST-00263,Ava,Davis,1993-11-10,F,customer263@example.com,Sydney,Karnataka,United States,92275
+264,CUST-00264,Ishaan,Clark,1989-04-16,F,customer264@example.com,London,New York,France,91750
+265,CUST-00265,Grace,Brown,1995-10-13,M,customer265@example.com,New York,Île-de-France,France,52925
+266,CUST-00266,Emma,Sharma,1998-12-18,F,customer266@example.com,Toronto,New York,United States,90100
+267,CUST-00267,Lucas,Patel,1995-04-25,M,customer267@example.com,Paris,Queensland,United States,32141
+268,CUST-00268,Ethan,Miller,2000-04-08,M,customer268@example.com,Toronto,Washington,Germany,71149
+269,CUST-00269,Daniel,Young,1977-12-01,M,customer269@example.com,Seattle,Texas,United States,45273
+270,CUST-00270,Emma,Sharma,1976-12-20,F,customer270@example.com,Paris,Ontario,India,31642
+271,CUST-00271,Ava,Miller,1973-10-29,F,customer271@example.com,Austin,Queensland,United States,32500
+272,CUST-00272,Aarav,Smith,1970-02-11,F,customer272@example.com,London,Bavaria,India,47782
+273,CUST-00273,Olivia,Lewis,1992-03-13,M,customer273@example.com,Paris,New York,United Kingdom,40568
+274,CUST-00274,Grace,Moore,1990-09-21,F,customer274@example.com,New York,Île-de-France,United States,29009
+275,CUST-00275,Lucas,Lee,1994-06-17,M,customer275@example.com,New York,Queensland,United States,40072
+276,CUST-00276,Isabella,Martin,1967-03-14,M,customer276@example.com,Toronto,California,United Kingdom,21572
+277,CUST-00277,Isabella,Moore,1981-02-14,F,customer277@example.com,Munich,Karnataka,Australia,97269
+278,CUST-00278,Charlotte,Lee,1969-07-18,M,customer278@example.com,London,Queensland,United States,44199
+279,CUST-00279,Mia,Sharma,1998-05-26,F,customer279@example.com,Munich,New York,Germany,19664
+280,CUST-00280,Mia,Hall,1971-07-01,F,customer280@example.com,Sydney,Ontario,India,61823
+281,CUST-00281,Ava,Martin,1966-03-10,F,customer281@example.com,Seattle,Washington,Canada,89479
+282,CUST-00282,Isabella,Martin,1984-07-03,M,customer282@example.com,Toronto,Queensland,France,42393
+283,CUST-00283,Amelia,Miller,1997-10-19,M,customer283@example.com,Sydney,Queensland,India,86070
+284,CUST-00284,Isabella,Clark,1999-05-18,F,customer284@example.com,London,Ontario,India,64973
+285,CUST-00285,Lucas,Miller,1964-02-18,F,customer285@example.com,Toronto,Washington,United Kingdom,76531
+286,CUST-00286,Ishaan,Sharma,1974-01-05,F,customer286@example.com,Sydney,New York,India,36662
+287,CUST-00287,Olivia,Lewis,1966-08-08,F,customer287@example.com,Seattle,Ontario,Australia,13324
+288,CUST-00288,Emma,Brown,1973-03-28,M,customer288@example.com,Austin,Ontario,France,41126
+289,CUST-00289,Arjun,Smith,1982-12-15,M,customer289@example.com,Munich,Washington,Australia,93200
+290,CUST-00290,Isabella,Thomas,1972-01-24,F,customer290@example.com,Toronto,Queensland,India,81159
+291,CUST-00291,Leo,Brown,1962-11-26,M,customer291@example.com,Bengaluru,Washington,Canada,80573
+292,CUST-00292,Ava,Hall,1981-12-06,F,customer292@example.com,Bengaluru,Ontario,United States,89047
+293,CUST-00293,Grace,Davis,1962-04-09,M,customer293@example.com,Sydney,Texas,United States,43593
+294,CUST-00294,Ethan,Sharma,1969-09-30,F,customer294@example.com,Toronto,Ontario,France,38982
+295,CUST-00295,Arjun,Young,1960-01-09,F,customer295@example.com,Sydney,Bavaria,Germany,93266
+296,CUST-00296,Arjun,Taylor,1963-09-25,M,customer296@example.com,Paris,Bavaria,Canada,61435
+297,CUST-00297,Leo,Williams,1978-10-05,M,customer297@example.com,New York,Karnataka,India,36816
+298,CUST-00298,Lucas,Moore,1996-07-31,F,customer298@example.com,London,Karnataka,United States,35034
+299,CUST-00299,Ava,Taylor,1993-04-23,M,customer299@example.com,Munich,California,United States,88954
+300,CUST-00300,Aarav,Sharma,1964-04-01,F,customer300@example.com,New York,New York,Australia,14800
+301,CUST-00301,Sophia,Lee,1961-07-01,F,customer301@example.com,Seattle,Queensland,India,15552
+302,CUST-00302,Leo,Davis,1974-07-15,F,customer302@example.com,Paris,Bavaria,France,76406
+303,CUST-00303,Aarav,Moore,1988-01-18,M,customer303@example.com,Sydney,Queensland,Germany,10121
+304,CUST-00304,Harper,Hall,1992-02-10,F,customer304@example.com,New York,Bavaria,United Kingdom,25390
+305,CUST-00305,Arjun,Thomas,1995-05-25,M,customer305@example.com,Bengaluru,Washington,Germany,99155
+306,CUST-00306,Noah,Moore,1974-09-18,F,customer306@example.com,Paris,Texas,Australia,48313
+307,CUST-00307,Ethan,Williams,1967-03-23,F,customer307@example.com,Austin,California,Germany,75488
+308,CUST-00308,Emma,Brown,1961-02-17,M,customer308@example.com,Austin,Queensland,United Kingdom,53833
+309,CUST-00309,Ethan,Davis,1966-04-25,M,customer309@example.com,New York,Queensland,United States,18151
+310,CUST-00310,Noah,Hall,1962-10-20,M,customer310@example.com,Sydney,Washington,United States,26602
+311,CUST-00311,Amelia,Taylor,1997-01-05,F,customer311@example.com,Bengaluru,Bavaria,France,78498
+312,CUST-00312,Amelia,Jones,1995-05-24,M,customer312@example.com,Austin,Karnataka,United States,18509
+313,CUST-00313,Noah,Lee,1983-10-14,M,customer313@example.com,London,New York,France,63514
+314,CUST-00314,Ava,Hall,1983-03-05,F,customer314@example.com,Paris,Washington,Germany,41320
+315,CUST-00315,Liam,Lewis,1979-07-22,F,customer315@example.com,London,Karnataka,United Kingdom,43326
+316,CUST-00316,Amelia,Williams,1995-03-24,F,customer316@example.com,Bengaluru,Karnataka,France,95704
+317,CUST-00317,Ravi,Martin,1961-11-13,F,customer317@example.com,London,Texas,United Kingdom,64533
+318,CUST-00318,Ravi,Anderson,1963-12-27,F,customer318@example.com,London,Washington,United Kingdom,65361
+319,CUST-00319,Ishaan,Davis,1978-03-16,F,customer319@example.com,Austin,Ontario,India,41531
+320,CUST-00320,Charlotte,Miller,1976-12-17,M,customer320@example.com,New York,Ontario,Canada,44326
+321,CUST-00321,Ethan,Smith,1983-06-18,F,customer321@example.com,New York,Texas,Canada,71718
+322,CUST-00322,Noah,Williams,1991-09-22,F,customer322@example.com,Austin,Île-de-France,United Kingdom,13501
+323,CUST-00323,Daniel,Taylor,1985-04-06,F,customer323@example.com,Toronto,New York,India,31356
+324,CUST-00324,Ishaan,Hall,1971-01-26,F,customer324@example.com,Bengaluru,New York,United States,64023
+325,CUST-00325,Grace,Hall,1974-01-27,F,customer325@example.com,Toronto,California,United Kingdom,66117
+326,CUST-00326,Liam,Johnson,1992-05-08,M,customer326@example.com,Munich,Bavaria,Australia,18303
+327,CUST-00327,Liam,Moore,1981-09-05,F,customer327@example.com,London,Washington,Australia,80903
+328,CUST-00328,Aarav,Patel,1983-03-03,F,customer328@example.com,Seattle,Île-de-France,India,58828
+329,CUST-00329,Noah,Moore,1990-09-19,M,customer329@example.com,Toronto,Ontario,United Kingdom,31393
+330,CUST-00330,Emma,Jones,1979-12-25,F,customer330@example.com,Bengaluru,Bavaria,India,77674
+331,CUST-00331,Arjun,Davis,1973-04-17,M,customer331@example.com,Austin,Texas,Germany,99177
+332,CUST-00332,Sophia,Martin,1975-10-27,F,customer332@example.com,Paris,Texas,Canada,48122
+333,CUST-00333,Ethan,Davis,1977-09-12,F,customer333@example.com,Seattle,Bavaria,United Kingdom,35509
+334,CUST-00334,Leo,Clark,1969-06-04,M,customer334@example.com,Seattle,Bavaria,Australia,36946
+335,CUST-00335,Isabella,Taylor,1986-11-22,M,customer335@example.com,Sydney,Ontario,India,63333
+336,CUST-00336,Leo,Young,1968-12-16,F,customer336@example.com,Sydney,California,United States,14264
+337,CUST-00337,Grace,Thomas,1987-11-23,M,customer337@example.com,London,Île-de-France,Australia,53508
+338,CUST-00338,Ethan,Williams,1992-04-24,F,customer338@example.com,London,New York,United Kingdom,12229
+339,CUST-00339,Liam,Lee,2001-05-11,M,customer339@example.com,Seattle,Île-de-France,Australia,13472
+340,CUST-00340,Grace,Davis,1965-02-10,F,customer340@example.com,Bengaluru,Bavaria,France,48701
+341,CUST-00341,Daniel,Taylor,1992-09-01,F,customer341@example.com,Toronto,Bavaria,Australia,77095
+342,CUST-00342,Ava,Smith,1963-09-12,F,customer342@example.com,Austin,Karnataka,Germany,89500
+343,CUST-00343,Daniel,Smith,1974-07-02,M,customer343@example.com,Toronto,Karnataka,Canada,17887
+344,CUST-00344,Arjun,Anderson,1967-07-31,F,customer344@example.com,New York,Ontario,France,31965
+345,CUST-00345,Ishaan,Johnson,1966-12-23,M,customer345@example.com,London,California,Germany,47949
+346,CUST-00346,Ava,Young,1967-07-16,M,customer346@example.com,New York,New York,France,61664
+347,CUST-00347,Grace,Hall,1961-11-21,M,customer347@example.com,London,Karnataka,Germany,98833
+348,CUST-00348,Ishaan,Martin,1995-05-24,F,customer348@example.com,Austin,Bavaria,India,71586
+349,CUST-00349,Olivia,Martin,1962-08-18,F,customer349@example.com,London,Queensland,Australia,58451
+350,CUST-00350,Olivia,Anderson,1977-02-18,M,customer350@example.com,London,Karnataka,France,15474
+351,CUST-00351,Arjun,Patel,1990-01-24,M,customer351@example.com,Austin,California,Germany,17273
+352,CUST-00352,Aarav,Miller,2002-08-03,F,customer352@example.com,Bengaluru,Ontario,Canada,23778
+353,CUST-00353,Ava,Wilson,2002-06-22,M,customer353@example.com,Toronto,Ontario,United States,69470
+354,CUST-00354,Lucas,Lewis,1988-02-07,M,customer354@example.com,Munich,Île-de-France,United States,39814
+355,CUST-00355,Grace,Brown,1967-09-21,F,customer355@example.com,Sydney,Washington,United Kingdom,31684
+356,CUST-00356,Grace,Wilson,1979-04-18,M,customer356@example.com,Toronto,Washington,United States,70307
+357,CUST-00357,Olivia,Jones,1999-06-21,F,customer357@example.com,Sydney,New York,United Kingdom,83382
+358,CUST-00358,Harper,Smith,1976-11-23,F,customer358@example.com,Austin,Texas,United States,49512
+359,CUST-00359,Mia,Smith,1967-11-24,M,customer359@example.com,Munich,Queensland,France,89365
+360,CUST-00360,Ravi,Miller,1997-08-18,M,customer360@example.com,Seattle,Queensland,United States,76076
+361,CUST-00361,Leo,Patel,2000-12-23,F,customer361@example.com,Munich,Bavaria,India,74463
+362,CUST-00362,Harper,Patel,2001-12-13,F,customer362@example.com,New York,Île-de-France,Canada,88082
+363,CUST-00363,Liam,Miller,2001-02-04,F,customer363@example.com,Munich,California,United Kingdom,26542
+364,CUST-00364,Harper,Brown,1997-07-14,M,customer364@example.com,Sydney,Washington,India,78252
+365,CUST-00365,Noah,Anderson,1979-07-18,F,customer365@example.com,London,Washington,France,96195
+366,CUST-00366,Arjun,Sharma,1968-04-08,F,customer366@example.com,Paris,Washington,Germany,99301
+367,CUST-00367,Isabella,Jones,1986-07-16,M,customer367@example.com,London,Bavaria,France,62023
+368,CUST-00368,Ethan,Wilson,1969-06-29,F,customer368@example.com,Sydney,Texas,India,77891
+369,CUST-00369,Aarav,Young,1980-05-06,F,customer369@example.com,Munich,California,India,89973
+370,CUST-00370,Charlotte,Thomas,1988-03-18,M,customer370@example.com,New York,Bavaria,United Kingdom,86695
+371,CUST-00371,Ethan,Hall,2000-09-13,M,customer371@example.com,New York,Île-de-France,Germany,90800
+372,CUST-00372,Amelia,Jones,1972-06-06,F,customer372@example.com,Seattle,Washington,Germany,84912
+373,CUST-00373,Lucas,Davis,1970-10-31,M,customer373@example.com,New York,Washington,United Kingdom,44317
+374,CUST-00374,Sophia,Davis,1991-08-05,M,customer374@example.com,Austin,Ontario,Canada,75723
+375,CUST-00375,Harper,Hall,1960-04-11,M,customer375@example.com,Bengaluru,Ontario,India,46939
+376,CUST-00376,Mia,Young,1984-05-10,F,customer376@example.com,New York,Île-de-France,United States,82161
+377,CUST-00377,Ravi,Young,1992-01-28,M,customer377@example.com,Bengaluru,New York,Germany,82921
+378,CUST-00378,Ravi,Lee,1983-09-09,F,customer378@example.com,New York,California,United Kingdom,94120
+379,CUST-00379,Sophia,Taylor,1976-07-05,F,customer379@example.com,Toronto,New York,United States,62948
+380,CUST-00380,Ava,Taylor,1995-08-18,F,customer380@example.com,London,Queensland,Canada,52768
+381,CUST-00381,Aarav,Young,1975-12-15,F,customer381@example.com,London,Ontario,Germany,24898
+382,CUST-00382,Ishaan,Williams,1990-07-21,M,customer382@example.com,Toronto,Ontario,United Kingdom,67445
+383,CUST-00383,Ishaan,Jones,1979-12-16,M,customer383@example.com,Munich,Île-de-France,Australia,60975
+384,CUST-00384,Liam,Hall,1961-02-21,M,customer384@example.com,Sydney,Bavaria,Germany,56344
+385,CUST-00385,Aarav,Miller,1982-10-24,F,customer385@example.com,Munich,Washington,United States,70868
+386,CUST-00386,Noah,Brown,1962-02-15,F,customer386@example.com,Toronto,New York,Germany,86592
+387,CUST-00387,Mia,Anderson,2000-01-12,M,customer387@example.com,London,Karnataka,Canada,23380
+388,CUST-00388,Leo,Jones,1985-11-13,F,customer388@example.com,Austin,New York,India,48821
+389,CUST-00389,Harper,Hall,1975-12-31,F,customer389@example.com,Sydney,New York,United Kingdom,75006
+390,CUST-00390,Olivia,Lewis,1980-11-27,M,customer390@example.com,New York,Texas,United States,83774
+391,CUST-00391,Ravi,Jones,1986-08-16,M,customer391@example.com,Paris,Washington,Germany,80054
+392,CUST-00392,Olivia,Taylor,1971-03-10,M,customer392@example.com,London,Karnataka,Germany,81941
+393,CUST-00393,Sophia,Young,1972-05-26,M,customer393@example.com,Sydney,Bavaria,France,86952
+394,CUST-00394,Emma,Martin,1978-01-01,M,customer394@example.com,Munich,Bavaria,India,96568
+395,CUST-00395,Ravi,Brown,1971-02-13,F,customer395@example.com,Bengaluru,Washington,Australia,64725
+396,CUST-00396,Harper,Anderson,1992-08-03,F,customer396@example.com,Seattle,Texas,United Kingdom,32402
+397,CUST-00397,Aarav,Thomas,1964-06-18,F,customer397@example.com,Bengaluru,Texas,Canada,60718
+398,CUST-00398,Olivia,Moore,1995-07-18,M,customer398@example.com,Seattle,New York,India,73865
+399,CUST-00399,Ava,Sharma,1974-12-26,F,customer399@example.com,Austin,Ontario,Canada,19063
+400,CUST-00400,Ethan,Williams,1984-02-18,M,customer400@example.com,Bengaluru,Île-de-France,Australia,78121
+401,CUST-00401,Grace,Hall,1966-10-13,M,customer401@example.com,Seattle,Île-de-France,United Kingdom,58978
+402,CUST-00402,Charlotte,Brown,1976-07-27,F,customer402@example.com,Toronto,California,Australia,94264
+403,CUST-00403,Ethan,Williams,1992-06-12,F,customer403@example.com,Bengaluru,Karnataka,United Kingdom,29064
+404,CUST-00404,Grace,Jones,1971-08-22,M,customer404@example.com,Bengaluru,Washington,United States,91620
+405,CUST-00405,Isabella,Johnson,1965-09-08,M,customer405@example.com,Sydney,Texas,United States,50319
+406,CUST-00406,Arjun,Johnson,1982-06-11,F,customer406@example.com,Seattle,Ontario,Australia,61616
+407,CUST-00407,Lucas,Jones,1966-12-27,F,customer407@example.com,Paris,California,Canada,69399
+408,CUST-00408,Noah,Hall,1973-07-14,M,customer408@example.com,New York,New York,United States,62123
+409,CUST-00409,Ishaan,Sharma,1979-05-15,F,customer409@example.com,Paris,Ontario,Australia,91343
+410,CUST-00410,Aarav,Williams,1984-04-03,F,customer410@example.com,Munich,Washington,United Kingdom,25056
+411,CUST-00411,Olivia,Patel,1987-06-30,M,customer411@example.com,Toronto,Queensland,United States,75688
+412,CUST-00412,Liam,Anderson,1989-02-04,F,customer412@example.com,Paris,Ontario,United States,97745
+413,CUST-00413,Ava,Williams,1996-04-21,F,customer413@example.com,Sydney,Bavaria,Australia,29810
+414,CUST-00414,Noah,Lee,1962-11-03,F,customer414@example.com,Austin,Texas,France,32951
+415,CUST-00415,Aarav,Anderson,1975-07-31,M,customer415@example.com,Paris,California,United Kingdom,52750
+416,CUST-00416,Amelia,Lee,1960-01-17,M,customer416@example.com,London,Ontario,United Kingdom,75225
+417,CUST-00417,Grace,Thomas,1960-05-28,F,customer417@example.com,New York,Washington,United Kingdom,96307
+418,CUST-00418,Noah,Davis,1969-02-16,F,customer418@example.com,Toronto,Karnataka,Canada,81620
+419,CUST-00419,Ava,Hall,1985-09-20,M,customer419@example.com,Paris,California,Germany,81460
+420,CUST-00420,Arjun,Wilson,1998-06-19,F,customer420@example.com,Sydney,Queensland,Canada,49708
+421,CUST-00421,Ishaan,Lewis,1993-04-06,F,customer421@example.com,Sydney,Île-de-France,India,68083
+422,CUST-00422,Amelia,Young,1987-10-16,M,customer422@example.com,London,California,France,29007
+423,CUST-00423,Charlotte,Anderson,1993-06-17,F,customer423@example.com,Paris,Washington,France,51682
+424,CUST-00424,Emma,Moore,1967-05-24,M,customer424@example.com,Seattle,Bavaria,Australia,27006
+425,CUST-00425,Lucas,Williams,1996-02-11,M,customer425@example.com,Sydney,Ontario,India,12441
+426,CUST-00426,Olivia,Clark,1998-04-13,M,customer426@example.com,Toronto,Texas,France,87083
+427,CUST-00427,Harper,Moore,1964-02-01,M,customer427@example.com,Sydney,Texas,Germany,82424
+428,CUST-00428,Leo,Lewis,1995-09-10,F,customer428@example.com,London,Karnataka,Canada,55967
+429,CUST-00429,Aarav,Williams,1980-06-21,M,customer429@example.com,Bengaluru,Bavaria,United States,11304
+430,CUST-00430,Ravi,Lee,1996-02-21,F,customer430@example.com,Toronto,New York,United States,18112
+431,CUST-00431,Mia,Wilson,2000-03-24,M,customer431@example.com,Austin,Ontario,France,20059
+432,CUST-00432,Ravi,Johnson,1980-05-30,F,customer432@example.com,Austin,Bavaria,Australia,74531
+433,CUST-00433,Leo,Johnson,1962-07-23,M,customer433@example.com,Munich,Texas,Canada,28314
+434,CUST-00434,Noah,Anderson,1974-08-15,F,customer434@example.com,London,Texas,Canada,32515
+435,CUST-00435,Lucas,Jones,1969-04-02,F,customer435@example.com,London,Karnataka,United Kingdom,87497
+436,CUST-00436,Noah,Smith,1980-05-21,F,customer436@example.com,Bengaluru,Texas,Germany,88874
+437,CUST-00437,Emma,Davis,1985-03-10,M,customer437@example.com,London,Karnataka,India,78674
+438,CUST-00438,Ishaan,Moore,1979-12-12,M,customer438@example.com,Toronto,Ontario,France,37861
+439,CUST-00439,Mia,Jones,1968-05-28,M,customer439@example.com,London,Île-de-France,Canada,62193
+440,CUST-00440,Sophia,Young,1972-12-13,M,customer440@example.com,Toronto,California,Australia,28024
+441,CUST-00441,Grace,Lee,1989-03-21,M,customer441@example.com,Munich,Île-de-France,United States,87210
+442,CUST-00442,Ethan,Taylor,1961-02-27,F,customer442@example.com,Sydney,Washington,France,17637
+443,CUST-00443,Noah,Lewis,1969-03-16,M,customer443@example.com,New York,California,Australia,76995
+444,CUST-00444,Isabella,Davis,1998-05-16,M,customer444@example.com,Munich,Karnataka,Australia,56037
+445,CUST-00445,Arjun,Smith,1964-04-06,M,customer445@example.com,Seattle,Ontario,Canada,78171
+446,CUST-00446,Amelia,Sharma,1977-10-31,F,customer446@example.com,Toronto,Bavaria,United Kingdom,50565
+447,CUST-00447,Ethan,Lewis,1968-11-24,F,customer447@example.com,London,California,France,24230
+448,CUST-00448,Grace,Young,1964-07-01,F,customer448@example.com,Bengaluru,California,Australia,77617
+449,CUST-00449,Arjun,Martin,1978-03-06,M,customer449@example.com,London,Queensland,India,66796
+450,CUST-00450,Ava,Smith,1982-06-03,M,customer450@example.com,New York,Bavaria,United States,51813
+451,CUST-00451,Grace,Williams,1967-07-29,F,customer451@example.com,London,New York,United Kingdom,43544
+452,CUST-00452,Ishaan,Sharma,1963-05-06,F,customer452@example.com,Sydney,Bavaria,Germany,40943
+453,CUST-00453,Isabella,Patel,1965-10-16,M,customer453@example.com,Austin,Île-de-France,United States,53301
+454,CUST-00454,Aarav,Brown,1988-01-07,M,customer454@example.com,New York,Bavaria,United States,33548
+455,CUST-00455,Emma,Anderson,1996-12-28,M,customer455@example.com,New York,Ontario,Germany,35412
+456,CUST-00456,Emma,Patel,1967-10-02,F,customer456@example.com,Paris,Karnataka,Canada,35032
+457,CUST-00457,Noah,Young,1973-10-11,M,customer457@example.com,Toronto,Ontario,United Kingdom,11141
+458,CUST-00458,Daniel,Wilson,1974-10-13,F,customer458@example.com,Seattle,Karnataka,Australia,93505
+459,CUST-00459,Leo,Williams,1975-07-07,F,customer459@example.com,Munich,Queensland,United Kingdom,31289
+460,CUST-00460,Noah,Taylor,1970-07-03,F,customer460@example.com,Toronto,Ontario,United States,24856
+461,CUST-00461,Ravi,Lee,1962-05-18,F,customer461@example.com,New York,New York,United States,23605
+462,CUST-00462,Noah,Jones,1982-08-01,M,customer462@example.com,Munich,Queensland,United States,98934
+463,CUST-00463,Ravi,Sharma,1975-05-14,F,customer463@example.com,Sydney,Karnataka,United Kingdom,52906
+464,CUST-00464,Lucas,Patel,1974-09-19,M,customer464@example.com,New York,Île-de-France,India,39422
+465,CUST-00465,Aarav,Hall,1971-05-22,M,customer465@example.com,Paris,Queensland,Canada,46349
+466,CUST-00466,Grace,Smith,1999-12-18,M,customer466@example.com,Sydney,California,United States,17955
+467,CUST-00467,Olivia,Thomas,1986-04-02,M,customer467@example.com,Seattle,Queensland,United States,38229
+468,CUST-00468,Emma,Miller,1978-01-01,M,customer468@example.com,Seattle,Washington,Australia,32381
+469,CUST-00469,Olivia,Lee,1968-10-30,M,customer469@example.com,Toronto,California,Germany,82288
+470,CUST-00470,Ishaan,Patel,1998-03-14,M,customer470@example.com,Bengaluru,California,Canada,15257
+471,CUST-00471,Ravi,Hall,1961-05-22,M,customer471@example.com,Seattle,Queensland,United States,48289
+472,CUST-00472,Leo,Moore,1999-12-23,M,customer472@example.com,Austin,Île-de-France,United Kingdom,81101
+473,CUST-00473,Lucas,Davis,1990-01-28,M,customer473@example.com,Munich,Ontario,Australia,85022
+474,CUST-00474,Isabella,Brown,1964-04-16,F,customer474@example.com,Munich,Ontario,United Kingdom,56129
+475,CUST-00475,Daniel,Young,1992-05-21,M,customer475@example.com,Seattle,California,France,30027
+476,CUST-00476,Charlotte,Jones,1964-08-13,M,customer476@example.com,Sydney,Karnataka,Germany,40328
+477,CUST-00477,Leo,Wilson,1962-03-09,M,customer477@example.com,Seattle,California,Canada,30005
+478,CUST-00478,Aarav,Miller,1964-12-16,M,customer478@example.com,Munich,Bavaria,France,69583
+479,CUST-00479,Amelia,Brown,1979-10-10,F,customer479@example.com,Paris,Bavaria,Canada,36337
+480,CUST-00480,Noah,Davis,1986-08-22,F,customer480@example.com,Paris,Île-de-France,United States,66757
+481,CUST-00481,Ava,Johnson,1977-07-07,F,customer481@example.com,Bengaluru,Washington,France,69011
+482,CUST-00482,Leo,Sharma,1965-03-30,F,customer482@example.com,Bengaluru,Texas,France,94587
+483,CUST-00483,Ava,Williams,1968-07-25,M,customer483@example.com,New York,Washington,Canada,43331
+484,CUST-00484,Charlotte,Smith,1996-08-26,F,customer484@example.com,Bengaluru,Bavaria,India,96512
+485,CUST-00485,Isabella,Davis,2001-05-23,M,customer485@example.com,Sydney,Texas,United Kingdom,46064
+486,CUST-00486,Liam,Hall,1992-06-07,F,customer486@example.com,Munich,Bavaria,India,71260
+487,CUST-00487,Ethan,Johnson,1964-06-12,M,customer487@example.com,Bengaluru,Texas,India,69545
+488,CUST-00488,Arjun,Sharma,1995-04-02,F,customer488@example.com,Paris,California,India,83602
+489,CUST-00489,Charlotte,Smith,1989-10-03,M,customer489@example.com,Sydney,Texas,Australia,52219
+490,CUST-00490,Daniel,Taylor,1982-08-15,F,customer490@example.com,Paris,Karnataka,India,81317
+491,CUST-00491,Ishaan,Williams,1966-02-27,M,customer491@example.com,Seattle,Queensland,Australia,41979
+492,CUST-00492,Harper,Wilson,2002-11-09,F,customer492@example.com,Seattle,New York,Germany,54216
+493,CUST-00493,Charlotte,Sharma,1961-11-24,F,customer493@example.com,Seattle,Queensland,United Kingdom,54970
+494,CUST-00494,Daniel,Jones,1969-01-10,F,customer494@example.com,Bengaluru,Queensland,Australia,73400
+495,CUST-00495,Ava,Davis,1977-04-03,M,customer495@example.com,Munich,Ontario,Canada,65650
+496,CUST-00496,Lucas,Davis,1973-12-05,M,customer496@example.com,Austin,Ontario,Australia,17043
+497,CUST-00497,Noah,Anderson,2000-10-16,F,customer497@example.com,Austin,California,United States,82815
+498,CUST-00498,Sophia,Lee,1963-09-18,M,customer498@example.com,Paris,Washington,Canada,78221
+499,CUST-00499,Ishaan,Wilson,1984-10-21,M,customer499@example.com,Munich,Ontario,France,19409
+500,CUST-00500,Lucas,Clark,1999-05-18,M,customer500@example.com,Bengaluru,Texas,United States,96564
+501,CUST-00501,Noah,Taylor,1994-09-01,M,customer501@example.com,Sydney,Ontario,India,69464
+502,CUST-00502,Amelia,Williams,1999-10-10,M,customer502@example.com,Toronto,Texas,India,17647
+503,CUST-00503,Grace,Brown,1967-04-29,M,customer503@example.com,Seattle,Bavaria,Australia,54225
+504,CUST-00504,Harper,Jones,1994-06-16,F,customer504@example.com,Austin,California,United States,85249
+505,CUST-00505,Ava,Anderson,2002-01-30,F,customer505@example.com,New York,California,United States,35184
+506,CUST-00506,Isabella,Brown,1974-01-07,M,customer506@example.com,Toronto,Queensland,United Kingdom,93967
+507,CUST-00507,Arjun,Lewis,1981-06-10,M,customer507@example.com,Munich,Texas,United States,47656
+508,CUST-00508,Liam,Wilson,1982-10-29,M,customer508@example.com,Munich,New York,United States,30356
+509,CUST-00509,Ava,Hall,1981-03-24,F,customer509@example.com,London,Washington,United Kingdom,42080
+510,CUST-00510,Liam,Moore,1972-06-17,M,customer510@example.com,Austin,Texas,United Kingdom,57232
+511,CUST-00511,Grace,Jones,2001-09-30,F,customer511@example.com,Munich,Karnataka,Germany,71931
+512,CUST-00512,Ravi,Brown,2001-02-16,F,customer512@example.com,Seattle,Karnataka,India,93506
+513,CUST-00513,Leo,Martin,1976-05-15,F,customer513@example.com,Sydney,Washington,United States,27540
+514,CUST-00514,Leo,Jones,1994-08-17,M,customer514@example.com,Paris,Karnataka,India,96419
+515,CUST-00515,Grace,Brown,1994-03-06,F,customer515@example.com,Munich,Karnataka,United States,57492
+516,CUST-00516,Noah,Lewis,1985-02-22,F,customer516@example.com,Munich,Ontario,Canada,21509
+517,CUST-00517,Harper,Wilson,1980-03-20,F,customer517@example.com,Seattle,Queensland,United States,93381
+518,CUST-00518,Mia,Sharma,1965-07-04,F,customer518@example.com,Austin,Île-de-France,United States,41410
+519,CUST-00519,Isabella,Wilson,1988-02-24,F,customer519@example.com,London,Ontario,United States,65852
+520,CUST-00520,Emma,Wilson,1973-10-21,M,customer520@example.com,London,New York,Australia,72832
+521,CUST-00521,Sophia,Hall,1969-04-28,F,customer521@example.com,Austin,Ontario,Australia,11206
+522,CUST-00522,Noah,Martin,1968-04-22,F,customer522@example.com,New York,Bavaria,Canada,29940
+523,CUST-00523,Olivia,Johnson,2002-03-22,M,customer523@example.com,Austin,Karnataka,India,71780
+524,CUST-00524,Leo,Johnson,1964-06-10,M,customer524@example.com,Munich,California,Germany,39229
+525,CUST-00525,Ethan,Thomas,1994-05-03,F,customer525@example.com,Bengaluru,Ontario,Germany,10839
+526,CUST-00526,Ethan,Sharma,1997-03-30,M,customer526@example.com,Bengaluru,Karnataka,India,12096
+527,CUST-00527,Ishaan,Jones,1961-05-02,M,customer527@example.com,Austin,Washington,Australia,84379
+528,CUST-00528,Noah,Smith,1985-05-05,F,customer528@example.com,London,Île-de-France,Australia,23816
+529,CUST-00529,Ishaan,Sharma,1984-10-29,F,customer529@example.com,Bengaluru,Bavaria,United Kingdom,19038
+530,CUST-00530,Ishaan,Lewis,1988-09-01,F,customer530@example.com,London,Bavaria,Australia,60609
+531,CUST-00531,Emma,Patel,1978-07-22,M,customer531@example.com,Munich,California,United States,20704
+532,CUST-00532,Olivia,Sharma,1994-06-06,M,customer532@example.com,Seattle,Queensland,France,68777
+533,CUST-00533,Olivia,Lewis,1987-03-24,F,customer533@example.com,Seattle,Ontario,Canada,58968
+534,CUST-00534,Ava,Johnson,1976-04-19,F,customer534@example.com,Munich,Queensland,Germany,68401
+535,CUST-00535,Emma,Clark,1999-11-07,M,customer535@example.com,Bengaluru,Bavaria,France,54243
+536,CUST-00536,Olivia,Sharma,1994-06-28,M,customer536@example.com,Seattle,New York,Australia,80051
+537,CUST-00537,Isabella,Johnson,2000-02-10,M,customer537@example.com,New York,Ontario,France,68027
+538,CUST-00538,Noah,Smith,1991-05-31,F,customer538@example.com,Seattle,Karnataka,Australia,47374
+539,CUST-00539,Arjun,Martin,1976-10-31,M,customer539@example.com,New York,Karnataka,United States,11384
+540,CUST-00540,Aarav,Thomas,1993-03-27,F,customer540@example.com,Munich,Karnataka,United States,34613
+541,CUST-00541,Ravi,Wilson,1974-02-27,M,customer541@example.com,New York,New York,United States,21828
+542,CUST-00542,Mia,Brown,1971-08-26,F,customer542@example.com,New York,Île-de-France,France,11402
+543,CUST-00543,Olivia,Patel,1979-05-25,M,customer543@example.com,London,California,Australia,34585
+544,CUST-00544,Olivia,Anderson,2001-09-05,F,customer544@example.com,Munich,Ontario,Canada,28596
+545,CUST-00545,Leo,Brown,1984-06-02,F,customer545@example.com,Austin,Queensland,Australia,16906
+546,CUST-00546,Mia,Anderson,1979-11-10,M,customer546@example.com,Sydney,California,United Kingdom,38114
+547,CUST-00547,Lucas,Moore,1972-07-09,M,customer547@example.com,London,Ontario,France,55590
+548,CUST-00548,Emma,Clark,1975-01-25,F,customer548@example.com,Sydney,Queensland,France,26038
+549,CUST-00549,Arjun,Wilson,1983-11-03,F,customer549@example.com,Paris,Queensland,United States,34579
+550,CUST-00550,Amelia,Sharma,1973-10-16,F,customer550@example.com,Toronto,Texas,Germany,11812
+551,CUST-00551,Leo,Williams,2001-09-20,F,customer551@example.com,Seattle,Washington,Canada,14536
+552,CUST-00552,Sophia,Hall,1974-11-13,F,customer552@example.com,London,Washington,United States,24170
+553,CUST-00553,Leo,Taylor,1963-01-12,F,customer553@example.com,Paris,Queensland,France,50762
+554,CUST-00554,Ethan,Thomas,1976-04-12,M,customer554@example.com,Sydney,Washington,United States,69948
+555,CUST-00555,Grace,Wilson,1982-11-18,F,customer555@example.com,Bengaluru,Queensland,United Kingdom,80949
+556,CUST-00556,Arjun,Johnson,1964-01-26,M,customer556@example.com,Toronto,Karnataka,United States,66662
+557,CUST-00557,Ravi,Hall,1973-02-22,M,customer557@example.com,London,Bavaria,Australia,65515
+558,CUST-00558,Harper,Lee,1967-02-21,M,customer558@example.com,Bengaluru,Texas,India,94210
+559,CUST-00559,Charlotte,Young,1981-07-12,M,customer559@example.com,Bengaluru,Île-de-France,Canada,33007
+560,CUST-00560,Harper,Hall,1991-02-04,M,customer560@example.com,New York,Texas,United States,81834
+561,CUST-00561,Arjun,Williams,2001-08-23,F,customer561@example.com,Bengaluru,California,United States,94317
+562,CUST-00562,Aarav,Williams,1976-09-24,M,customer562@example.com,New York,California,France,61097
+563,CUST-00563,Isabella,Brown,1997-02-13,M,customer563@example.com,Paris,Texas,Germany,85649
+564,CUST-00564,Olivia,Lewis,1969-03-23,M,customer564@example.com,Seattle,Bavaria,France,22379
+565,CUST-00565,Harper,Anderson,1993-07-24,F,customer565@example.com,Toronto,Texas,Australia,89089
+566,CUST-00566,Liam,Wilson,1984-03-12,F,customer566@example.com,Toronto,Karnataka,Australia,60765
+567,CUST-00567,Liam,Young,1992-08-07,F,customer567@example.com,Seattle,New York,Germany,29937
+568,CUST-00568,Liam,Thomas,1982-11-23,M,customer568@example.com,Austin,California,India,15543
+569,CUST-00569,Daniel,Lewis,1971-01-26,F,customer569@example.com,Munich,New York,Australia,74792
+570,CUST-00570,Emma,Young,1982-08-17,F,customer570@example.com,Toronto,California,Canada,48779
+571,CUST-00571,Ishaan,Patel,1995-07-21,M,customer571@example.com,Austin,Ontario,Australia,37900
+572,CUST-00572,Lucas,Miller,2001-09-27,F,customer572@example.com,London,Queensland,United States,45122
+573,CUST-00573,Ava,Martin,1999-11-19,M,customer573@example.com,London,Ontario,United Kingdom,99190
+574,CUST-00574,Aarav,Clark,1967-10-21,F,customer574@example.com,Austin,Washington,Germany,48502
+575,CUST-00575,Aarav,Smith,1985-09-08,F,customer575@example.com,Seattle,Karnataka,France,17089
+576,CUST-00576,Sophia,Jones,1964-06-30,M,customer576@example.com,Munich,Queensland,United States,35184
+577,CUST-00577,Ishaan,Taylor,1988-10-06,F,customer577@example.com,Paris,Washington,United States,23082
+578,CUST-00578,Arjun,Lee,2002-09-02,M,customer578@example.com,Sydney,New York,United States,71724
+579,CUST-00579,Harper,Smith,1962-04-05,M,customer579@example.com,Bengaluru,California,Germany,82035
+580,CUST-00580,Noah,Thomas,1988-03-26,F,customer580@example.com,New York,Île-de-France,Canada,85684
+581,CUST-00581,Mia,Williams,2000-08-28,F,customer581@example.com,Paris,Karnataka,Canada,66958
+582,CUST-00582,Leo,Brown,1996-06-05,F,customer582@example.com,Seattle,Washington,United States,79165
+583,CUST-00583,Noah,Taylor,1976-11-16,F,customer583@example.com,New York,Karnataka,France,47555
+584,CUST-00584,Mia,Davis,1964-06-20,M,customer584@example.com,Seattle,Karnataka,Australia,66497
+585,CUST-00585,Lucas,Thomas,1999-09-23,F,customer585@example.com,Seattle,Queensland,Germany,19627
+586,CUST-00586,Ishaan,Jones,1999-08-14,F,customer586@example.com,Toronto,California,India,58450
+587,CUST-00587,Amelia,Clark,1984-11-23,F,customer587@example.com,Munich,Bavaria,United States,60171
+588,CUST-00588,Mia,Patel,1960-03-13,F,customer588@example.com,Seattle,Île-de-France,Germany,12797
+589,CUST-00589,Leo,Hall,1986-07-07,F,customer589@example.com,London,Île-de-France,Australia,59347
+590,CUST-00590,Leo,Sharma,1961-08-28,F,customer590@example.com,London,Île-de-France,India,75063
+591,CUST-00591,Leo,Martin,2000-03-27,M,customer591@example.com,Toronto,Île-de-France,United Kingdom,43082
+592,CUST-00592,Ishaan,Jones,1989-04-04,M,customer592@example.com,New York,Karnataka,Germany,59047
+593,CUST-00593,Liam,Miller,1999-04-12,M,customer593@example.com,London,California,France,35746
+594,CUST-00594,Grace,Sharma,1984-03-12,F,customer594@example.com,Austin,Ontario,Canada,34366
+595,CUST-00595,Ethan,Martin,1963-07-31,F,customer595@example.com,Austin,Washington,United States,21654
+596,CUST-00596,Leo,Johnson,1961-02-20,M,customer596@example.com,Austin,Texas,Germany,39505
+597,CUST-00597,Emma,Moore,1974-06-06,F,customer597@example.com,Austin,Bavaria,France,82286
+598,CUST-00598,Charlotte,Martin,1991-12-20,F,customer598@example.com,Bengaluru,Bavaria,Australia,94203
+599,CUST-00599,Daniel,Clark,1966-06-30,M,customer599@example.com,Toronto,Ontario,India,67205
+600,CUST-00600,Daniel,Martin,1996-08-22,M,customer600@example.com,Sydney,Karnataka,United Kingdom,66191
+601,CUST-00601,Daniel,Jones,1970-04-19,F,customer601@example.com,Paris,Texas,United States,65243
+602,CUST-00602,Charlotte,Martin,1981-05-06,M,customer602@example.com,Bengaluru,Texas,France,52831
+603,CUST-00603,Ravi,Clark,1968-09-24,F,customer603@example.com,Austin,Bavaria,Australia,48072
+604,CUST-00604,Noah,Jones,1980-01-11,F,customer604@example.com,Toronto,Ontario,United Kingdom,65882
+605,CUST-00605,Leo,Smith,1979-06-11,F,customer605@example.com,London,Ontario,India,80595
+606,CUST-00606,Arjun,Hall,1960-03-26,M,customer606@example.com,Paris,Ontario,United States,47236
+607,CUST-00607,Ethan,Smith,1984-06-01,F,customer607@example.com,London,Texas,United States,60929
+608,CUST-00608,Arjun,Anderson,2000-04-05,M,customer608@example.com,Austin,Bavaria,United Kingdom,52315
+609,CUST-00609,Grace,Brown,1974-03-22,M,customer609@example.com,Munich,Karnataka,Australia,35695
+610,CUST-00610,Harper,Smith,1997-11-12,M,customer610@example.com,Toronto,Karnataka,Canada,36127
+611,CUST-00611,Leo,Lee,1997-10-14,M,customer611@example.com,Seattle,New York,United Kingdom,17089
+612,CUST-00612,Isabella,Smith,2002-07-02,M,customer612@example.com,Munich,Queensland,Canada,49586
+613,CUST-00613,Charlotte,Moore,1976-01-16,F,customer613@example.com,Austin,Île-de-France,Canada,74120
+614,CUST-00614,Sophia,Moore,1996-08-03,M,customer614@example.com,Paris,Queensland,Australia,71702
+615,CUST-00615,Amelia,Patel,1984-04-19,F,customer615@example.com,Paris,Ontario,Australia,98709
+616,CUST-00616,Daniel,Johnson,1962-07-04,M,customer616@example.com,Toronto,Washington,France,13594
+617,CUST-00617,Liam,Lee,1988-11-24,M,customer617@example.com,Bengaluru,Ontario,Germany,78458
+618,CUST-00618,Ava,Taylor,1978-09-10,F,customer618@example.com,Bengaluru,New York,Canada,81551
+619,CUST-00619,Mia,Smith,1993-04-27,F,customer619@example.com,Bengaluru,Queensland,France,49278
+620,CUST-00620,Noah,Young,1966-06-10,F,customer620@example.com,Seattle,California,Australia,35467
+621,CUST-00621,Lucas,Williams,1981-05-09,F,customer621@example.com,London,Texas,United Kingdom,42138
+622,CUST-00622,Isabella,Sharma,1969-03-28,M,customer622@example.com,Austin,Bavaria,Canada,71429
+623,CUST-00623,Olivia,Lewis,1983-01-26,M,customer623@example.com,Munich,New York,Germany,87594
+624,CUST-00624,Lucas,Sharma,1970-05-08,F,customer624@example.com,Seattle,New York,Germany,67844
+625,CUST-00625,Daniel,Anderson,2001-07-06,F,customer625@example.com,Sydney,Ontario,Canada,56276
+626,CUST-00626,Liam,Young,1963-04-19,M,customer626@example.com,Munich,New York,United Kingdom,68735
+627,CUST-00627,Ethan,Anderson,2001-06-07,M,customer627@example.com,New York,Karnataka,United Kingdom,16353
+628,CUST-00628,Sophia,Anderson,1994-01-19,F,customer628@example.com,London,Washington,United States,64730
+629,CUST-00629,Arjun,Miller,1996-10-16,F,customer629@example.com,Seattle,Karnataka,India,13792
+630,CUST-00630,Sophia,Smith,1996-08-12,M,customer630@example.com,Munich,Texas,Australia,96318
+631,CUST-00631,Ravi,Anderson,1968-01-25,M,customer631@example.com,Seattle,New York,Australia,90027
+632,CUST-00632,Ethan,Hall,2000-01-14,F,customer632@example.com,Seattle,Queensland,India,55750
+633,CUST-00633,Lucas,Patel,2001-05-16,M,customer633@example.com,New York,Bavaria,Germany,43666
+634,CUST-00634,Sophia,Hall,1997-10-05,M,customer634@example.com,Paris,Washington,Germany,75907
+635,CUST-00635,Olivia,Davis,1984-12-03,M,customer635@example.com,Munich,Queensland,United States,67381
+636,CUST-00636,Amelia,Taylor,1976-02-07,F,customer636@example.com,Paris,California,India,73489
+637,CUST-00637,Liam,Johnson,1965-01-16,M,customer637@example.com,Seattle,California,France,56401
+638,CUST-00638,Ava,Thomas,1964-05-06,M,customer638@example.com,Seattle,Karnataka,Germany,31263
+639,CUST-00639,Charlotte,Johnson,1976-10-03,M,customer639@example.com,London,Karnataka,Canada,16592
+640,CUST-00640,Ishaan,Williams,1994-11-14,F,customer640@example.com,Seattle,New York,Canada,35497
+641,CUST-00641,Amelia,Martin,1980-09-18,M,customer641@example.com,Paris,Queensland,France,57609
+642,CUST-00642,Ishaan,Patel,1970-07-06,M,customer642@example.com,Seattle,New York,United States,48161
+643,CUST-00643,Harper,Davis,1984-04-08,M,customer643@example.com,Sydney,Washington,Australia,55572
+644,CUST-00644,Isabella,Anderson,1987-06-09,F,customer644@example.com,Paris,New York,United States,34992
+645,CUST-00645,Charlotte,Smith,2002-03-26,F,customer645@example.com,Munich,Washington,France,94407
+646,CUST-00646,Ethan,Williams,1991-05-14,F,customer646@example.com,London,Bavaria,United States,43006
+647,CUST-00647,Isabella,Jones,1986-02-09,M,customer647@example.com,Sydney,New York,United States,86153
+648,CUST-00648,Arjun,Moore,1999-02-18,F,customer648@example.com,Sydney,Washington,Canada,45186
+649,CUST-00649,Grace,Young,1978-04-10,M,customer649@example.com,Munich,Ontario,United Kingdom,49922
+650,CUST-00650,Leo,Clark,2000-03-15,F,customer650@example.com,Toronto,Karnataka,Australia,64347
+651,CUST-00651,Isabella,Johnson,1975-11-28,M,customer651@example.com,London,Washington,Canada,33681
+652,CUST-00652,Amelia,Sharma,1965-06-29,F,customer652@example.com,Paris,Île-de-France,Canada,29789
+653,CUST-00653,Liam,Patel,1977-12-16,F,customer653@example.com,Paris,Ontario,Australia,44126
+654,CUST-00654,Leo,Anderson,1965-07-15,M,customer654@example.com,Sydney,Queensland,Australia,82385
+655,CUST-00655,Emma,Johnson,1965-02-02,F,customer655@example.com,Seattle,Île-de-France,France,23013
+656,CUST-00656,Arjun,Brown,1997-11-22,M,customer656@example.com,Sydney,New York,Australia,49377
+657,CUST-00657,Charlotte,Clark,1994-03-05,M,customer657@example.com,New York,Texas,Australia,70489
+658,CUST-00658,Daniel,Hall,1969-07-06,M,customer658@example.com,New York,Karnataka,India,73561
+659,CUST-00659,Mia,Clark,1996-01-09,F,customer659@example.com,Toronto,California,United Kingdom,49096
+660,CUST-00660,Ava,Williams,1962-12-18,M,customer660@example.com,Austin,Ontario,India,17329
+661,CUST-00661,Olivia,Thomas,1972-03-24,F,customer661@example.com,Bengaluru,Île-de-France,France,11431
+662,CUST-00662,Ravi,Thomas,1990-05-13,F,customer662@example.com,Paris,New York,Canada,52296
+663,CUST-00663,Aarav,Johnson,1973-01-23,F,customer663@example.com,New York,Karnataka,United Kingdom,82903
+664,CUST-00664,Liam,Anderson,1991-05-31,F,customer664@example.com,Seattle,Ontario,Canada,12539
+665,CUST-00665,Emma,Taylor,1997-08-06,M,customer665@example.com,London,Texas,United Kingdom,89872
+666,CUST-00666,Amelia,Miller,1962-11-03,F,customer666@example.com,Sydney,Washington,India,70831
+667,CUST-00667,Arjun,Lee,1961-01-11,M,customer667@example.com,Seattle,Ontario,France,10725
+668,CUST-00668,Harper,Moore,2000-06-02,F,customer668@example.com,Paris,California,India,40933
+669,CUST-00669,Ishaan,Taylor,1982-05-19,M,customer669@example.com,Austin,New York,United States,29844
+670,CUST-00670,Noah,Martin,1981-10-11,F,customer670@example.com,Bengaluru,New York,Canada,95431
+671,CUST-00671,Grace,Lee,1979-12-09,F,customer671@example.com,New York,Bavaria,India,59929
+672,CUST-00672,Daniel,Anderson,1978-08-24,F,customer672@example.com,Munich,Texas,Canada,39170
+673,CUST-00673,Daniel,Williams,1989-09-04,M,customer673@example.com,Munich,Bavaria,India,35024
+674,CUST-00674,Mia,Lee,1984-12-05,F,customer674@example.com,London,New York,India,60741
+675,CUST-00675,Daniel,Martin,1967-01-10,M,customer675@example.com,Paris,Queensland,Canada,10458
+676,CUST-00676,Ravi,Young,1986-12-11,M,customer676@example.com,Toronto,Queensland,India,33164
+677,CUST-00677,Emma,Smith,1988-09-26,M,customer677@example.com,Seattle,Washington,Canada,24886
+678,CUST-00678,Mia,Davis,1964-11-19,F,customer678@example.com,Toronto,Île-de-France,United States,65809
+679,CUST-00679,Arjun,Lewis,1976-03-13,F,customer679@example.com,Toronto,Washington,Canada,70229
+680,CUST-00680,Ishaan,Taylor,1993-12-28,F,customer680@example.com,Sydney,California,Australia,52033
+681,CUST-00681,Ravi,Lewis,1986-08-09,M,customer681@example.com,London,Karnataka,United States,22602
+682,CUST-00682,Noah,Sharma,1965-11-11,M,customer682@example.com,Sydney,Queensland,France,43356
+683,CUST-00683,Grace,Sharma,1961-09-21,F,customer683@example.com,Toronto,Île-de-France,Australia,85860
+684,CUST-00684,Grace,Lee,1984-12-28,M,customer684@example.com,London,Ontario,United States,28331
+685,CUST-00685,Olivia,Miller,1979-11-08,M,customer685@example.com,Munich,California,France,24702
+686,CUST-00686,Leo,Taylor,2001-04-29,F,customer686@example.com,London,California,Germany,20036
+687,CUST-00687,Lucas,Davis,1982-06-16,M,customer687@example.com,Munich,New York,United States,83503
+688,CUST-00688,Emma,Davis,2000-01-20,F,customer688@example.com,London,Washington,United Kingdom,20789
+689,CUST-00689,Lucas,Lewis,1969-03-20,F,customer689@example.com,Paris,Île-de-France,Canada,62345
+690,CUST-00690,Charlotte,Patel,1979-03-27,F,customer690@example.com,Toronto,Texas,Australia,99912
+691,CUST-00691,Grace,Lee,1966-01-01,F,customer691@example.com,Seattle,Bavaria,Germany,67762
+692,CUST-00692,Charlotte,Hall,1984-09-09,F,customer692@example.com,Austin,Texas,Canada,47107
+693,CUST-00693,Ishaan,Moore,1968-02-08,F,customer693@example.com,Paris,Texas,India,28614
+694,CUST-00694,Ishaan,Miller,1981-03-02,M,customer694@example.com,Paris,Washington,United States,10173
+695,CUST-00695,Mia,Johnson,1974-10-19,M,customer695@example.com,Austin,Texas,India,24000
+696,CUST-00696,Ava,Moore,1967-12-27,M,customer696@example.com,Bengaluru,New York,France,95762
+697,CUST-00697,Ravi,Wilson,1964-02-29,F,customer697@example.com,Bengaluru,Washington,Australia,22924
+698,CUST-00698,Emma,Smith,1982-01-07,F,customer698@example.com,Austin,Ontario,Australia,11798
+699,CUST-00699,Mia,Miller,2000-09-25,M,customer699@example.com,Sydney,Ontario,Canada,83445
+700,CUST-00700,Mia,Young,1968-07-18,F,customer700@example.com,Munich,California,France,47672
+701,CUST-00701,Arjun,Williams,1977-05-31,M,customer701@example.com,New York,Texas,United States,42129
+702,CUST-00702,Daniel,Johnson,1969-08-28,F,customer702@example.com,Paris,Texas,Canada,74572
+703,CUST-00703,Olivia,Moore,1994-10-14,F,customer703@example.com,Seattle,Texas,United States,57072
+704,CUST-00704,Olivia,Johnson,1977-11-03,F,customer704@example.com,London,California,France,92313
+705,CUST-00705,Noah,Lewis,2001-11-25,M,customer705@example.com,Toronto,Washington,Australia,52083
+706,CUST-00706,Emma,Hall,1970-07-17,M,customer706@example.com,Austin,Ontario,France,74159
+707,CUST-00707,Aarav,Young,1963-06-22,F,customer707@example.com,Bengaluru,Washington,India,89096
+708,CUST-00708,Emma,Lewis,1985-01-18,F,customer708@example.com,Seattle,Washington,Australia,51725
+709,CUST-00709,Isabella,Brown,1988-01-09,F,customer709@example.com,Austin,Ontario,Australia,35585
+710,CUST-00710,Isabella,Brown,2002-08-08,M,customer710@example.com,Seattle,Ontario,United Kingdom,97698
+711,CUST-00711,Amelia,Jones,1997-06-21,M,customer711@example.com,London,Washington,Australia,30411
+712,CUST-00712,Arjun,Wilson,1998-01-07,M,customer712@example.com,Munich,Texas,India,13538
+713,CUST-00713,Ravi,Hall,1987-04-10,F,customer713@example.com,Austin,New York,France,62033
+714,CUST-00714,Charlotte,Martin,1975-06-22,M,customer714@example.com,New York,California,Australia,98819
+715,CUST-00715,Ishaan,Thomas,1978-06-13,M,customer715@example.com,London,Ontario,France,17779
+716,CUST-00716,Charlotte,Hall,1965-10-01,M,customer716@example.com,Seattle,Île-de-France,France,86444
+717,CUST-00717,Arjun,Thomas,1978-07-15,F,customer717@example.com,Toronto,New York,Australia,84738
+718,CUST-00718,Isabella,Miller,1975-09-02,F,customer718@example.com,Munich,California,Australia,93602
+719,CUST-00719,Liam,Davis,1961-07-17,F,customer719@example.com,Seattle,Karnataka,United States,47940
+720,CUST-00720,Emma,Taylor,1968-10-16,M,customer720@example.com,Seattle,Texas,United Kingdom,32929
+721,CUST-00721,Noah,Patel,1982-12-27,M,customer721@example.com,Paris,Texas,France,56092
+722,CUST-00722,Ishaan,Martin,1975-11-18,M,customer722@example.com,Bengaluru,Texas,United States,22821
+723,CUST-00723,Leo,Moore,2002-09-21,M,customer723@example.com,Toronto,Bavaria,Canada,85855
+724,CUST-00724,Noah,Martin,1980-07-29,F,customer724@example.com,Munich,Île-de-France,India,69697
+725,CUST-00725,Charlotte,Taylor,2001-03-23,F,customer725@example.com,Paris,Queensland,United Kingdom,53498
+726,CUST-00726,Noah,Lee,1988-05-30,F,customer726@example.com,Toronto,Queensland,France,56426
+727,CUST-00727,Ravi,Lewis,1961-09-26,M,customer727@example.com,Bengaluru,Queensland,India,74090
+728,CUST-00728,Mia,Anderson,1968-09-30,M,customer728@example.com,Seattle,Queensland,United States,57084
+729,CUST-00729,Isabella,Davis,1990-05-08,F,customer729@example.com,London,Ontario,United Kingdom,85581
+730,CUST-00730,Amelia,Smith,1983-06-10,M,customer730@example.com,Bengaluru,Île-de-France,Germany,93214
+731,CUST-00731,Ravi,Lee,1972-12-22,M,customer731@example.com,Austin,Karnataka,France,95480
+732,CUST-00732,Lucas,Lewis,1982-06-13,M,customer732@example.com,New York,California,France,65806
+733,CUST-00733,Ishaan,Moore,1998-10-30,M,customer733@example.com,New York,New York,Germany,76828
+734,CUST-00734,Charlotte,Hall,1976-09-18,F,customer734@example.com,London,Île-de-France,United States,37995
+735,CUST-00735,Liam,Hall,1961-12-09,F,customer735@example.com,Toronto,New York,Germany,13430
+736,CUST-00736,Amelia,Lee,1973-05-15,M,customer736@example.com,Austin,Texas,United States,46005
+737,CUST-00737,Ravi,Taylor,2000-03-29,F,customer737@example.com,Sydney,Bavaria,United States,88453
+738,CUST-00738,Ethan,Patel,1992-10-03,M,customer738@example.com,Austin,Queensland,India,22014
+739,CUST-00739,Ravi,Sharma,1996-01-05,M,customer739@example.com,Toronto,Queensland,Australia,59113
+740,CUST-00740,Harper,Brown,1999-03-14,M,customer740@example.com,Sydney,New York,India,27308
+741,CUST-00741,Leo,Davis,1965-01-19,F,customer741@example.com,Bengaluru,Texas,Germany,48634
+742,CUST-00742,Charlotte,Martin,1972-02-26,F,customer742@example.com,Bengaluru,New York,United States,22901
+743,CUST-00743,Daniel,Wilson,1962-07-28,F,customer743@example.com,Austin,New York,Australia,76126
+744,CUST-00744,Ava,Sharma,1960-03-15,M,customer744@example.com,Paris,Île-de-France,Germany,82925
+745,CUST-00745,Charlotte,Brown,1995-11-22,M,customer745@example.com,Munich,Washington,Australia,78251
+746,CUST-00746,Sophia,Young,2000-04-15,F,customer746@example.com,Munich,Texas,Australia,73437
+747,CUST-00747,Arjun,Young,1991-01-20,M,customer747@example.com,Sydney,New York,Australia,31163
+748,CUST-00748,Ethan,Miller,1983-01-01,M,customer748@example.com,New York,Île-de-France,France,57730
+749,CUST-00749,Ethan,Clark,1962-12-23,F,customer749@example.com,Toronto,Ontario,United States,19430
+750,CUST-00750,Olivia,Martin,1999-05-18,F,customer750@example.com,Paris,New York,France,43692
+751,CUST-00751,Grace,Lewis,1997-06-18,M,customer751@example.com,Austin,Karnataka,Germany,55522
+752,CUST-00752,Noah,Hall,1984-05-26,M,customer752@example.com,London,Queensland,Germany,70163
+753,CUST-00753,Mia,Thomas,1990-06-10,F,customer753@example.com,Sydney,Washington,Canada,18712
+754,CUST-00754,Ishaan,Miller,1977-01-29,M,customer754@example.com,Bengaluru,Île-de-France,Australia,83160
+755,CUST-00755,Emma,Thomas,1994-02-03,M,customer755@example.com,Munich,Queensland,Canada,51300
+756,CUST-00756,Lucas,Jones,1979-02-19,M,customer756@example.com,London,California,United Kingdom,89310
+757,CUST-00757,Ravi,Jones,2002-07-14,M,customer757@example.com,Paris,New York,France,57472
+758,CUST-00758,Sophia,Thomas,1962-09-18,F,customer758@example.com,London,Île-de-France,Australia,59230
+759,CUST-00759,Noah,Anderson,1967-05-27,F,customer759@example.com,Sydney,New York,Germany,72332
+760,CUST-00760,Ravi,Anderson,1972-06-01,F,customer760@example.com,New York,Queensland,United States,83788
+761,CUST-00761,Olivia,Miller,1994-01-09,M,customer761@example.com,Sydney,Queensland,Germany,24186
+762,CUST-00762,Emma,Davis,1968-02-22,M,customer762@example.com,Munich,Karnataka,India,56017
+763,CUST-00763,Ishaan,Sharma,1982-01-30,F,customer763@example.com,New York,Bavaria,France,12695
+764,CUST-00764,Ishaan,Thomas,1972-04-19,M,customer764@example.com,New York,Texas,United States,52707
+765,CUST-00765,Sophia,Anderson,1968-07-05,F,customer765@example.com,Sydney,Ontario,Australia,83215
+766,CUST-00766,Charlotte,Lewis,2001-06-20,F,customer766@example.com,Toronto,Ontario,Australia,87888
+767,CUST-00767,Daniel,Taylor,1968-08-05,M,customer767@example.com,Austin,Texas,Australia,35516
+768,CUST-00768,Isabella,Wilson,1964-01-20,F,customer768@example.com,Sydney,Karnataka,United States,44773
+769,CUST-00769,Noah,Patel,1988-12-23,F,customer769@example.com,New York,Texas,Australia,59639
+770,CUST-00770,Sophia,Johnson,1997-04-17,M,customer770@example.com,Sydney,Ontario,Canada,45631
+771,CUST-00771,Amelia,Jones,1965-06-25,F,customer771@example.com,Toronto,Washington,India,26026
+772,CUST-00772,Grace,Miller,1990-06-09,M,customer772@example.com,Seattle,Texas,United Kingdom,37441
+773,CUST-00773,Aarav,Miller,1983-04-03,F,customer773@example.com,Toronto,Bavaria,Australia,46364
+774,CUST-00774,Ravi,Miller,1995-09-10,F,customer774@example.com,London,Washington,India,56682
+775,CUST-00775,Leo,Lee,1965-06-16,M,customer775@example.com,New York,Washington,United States,92864
+776,CUST-00776,Grace,Smith,2001-12-18,F,customer776@example.com,Sydney,Bavaria,Germany,59035
+777,CUST-00777,Lucas,Jones,1986-08-15,M,customer777@example.com,Austin,Bavaria,Germany,44840
+778,CUST-00778,Noah,Johnson,1996-03-18,F,customer778@example.com,Seattle,California,United States,69440
+779,CUST-00779,Ava,Jones,1975-07-25,F,customer779@example.com,Paris,Washington,United States,79574
+780,CUST-00780,Harper,Moore,2000-07-25,F,customer780@example.com,New York,Karnataka,Germany,48744
+781,CUST-00781,Harper,Sharma,1986-12-07,F,customer781@example.com,Munich,Bavaria,United Kingdom,54033
+782,CUST-00782,Daniel,Jones,1965-06-16,M,customer782@example.com,Austin,Île-de-France,France,29605
+783,CUST-00783,Noah,Sharma,1999-09-08,F,customer783@example.com,Seattle,Ontario,Australia,87830
+784,CUST-00784,Noah,Young,1994-03-21,M,customer784@example.com,Austin,California,Canada,88014
+785,CUST-00785,Isabella,Martin,1972-11-27,F,customer785@example.com,Munich,Bavaria,United Kingdom,25741
+786,CUST-00786,Emma,Brown,1983-06-19,M,customer786@example.com,Munich,Texas,India,41139
+787,CUST-00787,Aarav,Johnson,1976-09-07,F,customer787@example.com,Paris,Texas,United States,34475
+788,CUST-00788,Amelia,Patel,1983-05-16,M,customer788@example.com,Seattle,Karnataka,Canada,93063
+789,CUST-00789,Arjun,Wilson,2001-07-06,F,customer789@example.com,Austin,Queensland,Canada,15870
+790,CUST-00790,Aarav,Lee,1998-08-27,M,customer790@example.com,New York,California,United Kingdom,28661
+791,CUST-00791,Mia,Anderson,1969-04-08,F,customer791@example.com,New York,Texas,Canada,38341
+792,CUST-00792,Isabella,Hall,2001-10-15,M,customer792@example.com,Munich,Queensland,Australia,60404
+793,CUST-00793,Ravi,Jones,1978-10-31,M,customer793@example.com,Seattle,Washington,India,32407
+794,CUST-00794,Leo,Williams,1990-04-23,M,customer794@example.com,Seattle,Karnataka,United States,58294
+795,CUST-00795,Lucas,Wilson,1992-11-10,M,customer795@example.com,Seattle,New York,France,77249
+796,CUST-00796,Ava,Brown,1980-10-07,F,customer796@example.com,Munich,Queensland,France,84577
+797,CUST-00797,Grace,Young,1979-08-21,M,customer797@example.com,Paris,Ontario,India,18915
+798,CUST-00798,Isabella,Johnson,1979-08-17,M,customer798@example.com,Bengaluru,New York,France,22496
+799,CUST-00799,Ethan,Wilson,1997-02-02,M,customer799@example.com,London,New York,Canada,18567
+800,CUST-00800,Lucas,Taylor,1972-01-14,M,customer800@example.com,Munich,Karnataka,Germany,91893
+801,CUST-00801,Aarav,Patel,1975-07-20,F,customer801@example.com,Seattle,Ontario,Germany,68688
+802,CUST-00802,Ethan,Wilson,1968-05-18,F,customer802@example.com,Paris,Queensland,Australia,57828
+803,CUST-00803,Arjun,Wilson,1976-11-01,M,customer803@example.com,New York,Queensland,United Kingdom,81181
+804,CUST-00804,Ishaan,Williams,1964-11-26,F,customer804@example.com,Munich,Texas,Australia,62749
+805,CUST-00805,Ravi,Smith,1963-11-10,F,customer805@example.com,Paris,Île-de-France,France,31190
+806,CUST-00806,Charlotte,Sharma,1991-02-15,F,customer806@example.com,Bengaluru,Queensland,France,55914
+807,CUST-00807,Arjun,Sharma,1963-05-01,F,customer807@example.com,Sydney,Karnataka,Australia,73288
+808,CUST-00808,Noah,Wilson,1984-06-07,F,customer808@example.com,London,Bavaria,United Kingdom,13242
+809,CUST-00809,Sophia,Patel,1993-07-14,M,customer809@example.com,New York,Île-de-France,Germany,64569
+810,CUST-00810,Grace,Young,1991-02-25,F,customer810@example.com,Munich,Karnataka,United States,54737
+811,CUST-00811,Aarav,Brown,1979-03-08,M,customer811@example.com,Austin,Bavaria,United Kingdom,16255
+812,CUST-00812,Harper,Moore,1968-04-29,M,customer812@example.com,New York,Ontario,Australia,33719
+813,CUST-00813,Amelia,Moore,2000-01-08,F,customer813@example.com,Seattle,Karnataka,France,50367
+814,CUST-00814,Ava,Wilson,1995-11-30,M,customer814@example.com,Bengaluru,Washington,Canada,40841
+815,CUST-00815,Charlotte,Hall,1986-04-29,F,customer815@example.com,Austin,Karnataka,Australia,36105
+816,CUST-00816,Leo,Smith,1963-09-24,F,customer816@example.com,Bengaluru,California,Canada,68418
+817,CUST-00817,Aarav,Brown,1961-07-06,F,customer817@example.com,Toronto,Île-de-France,Australia,46392
+818,CUST-00818,Noah,Williams,1973-07-21,M,customer818@example.com,Toronto,Washington,United States,54792
+819,CUST-00819,Amelia,Smith,1996-12-29,M,customer819@example.com,Munich,Queensland,India,81847
+820,CUST-00820,Grace,Williams,1968-11-06,M,customer820@example.com,Munich,California,India,18389
+821,CUST-00821,Aarav,Jones,1972-02-26,F,customer821@example.com,Toronto,Texas,Canada,42391
+822,CUST-00822,Amelia,Lee,2001-12-15,M,customer822@example.com,New York,Île-de-France,United Kingdom,16573
+823,CUST-00823,Noah,Jones,1995-03-09,F,customer823@example.com,Sydney,Bavaria,Germany,93458
+824,CUST-00824,Amelia,Hall,1969-05-27,M,customer824@example.com,Austin,Washington,United Kingdom,26709
+825,CUST-00825,Daniel,Lee,1976-06-28,M,customer825@example.com,Seattle,Texas,United States,83787
+826,CUST-00826,Mia,Lewis,1982-03-06,M,customer826@example.com,Austin,Bavaria,United States,27179
+827,CUST-00827,Amelia,Smith,1988-07-25,M,customer827@example.com,Munich,Île-de-France,France,39164
+828,CUST-00828,Harper,Young,2000-04-03,M,customer828@example.com,Sydney,Texas,Canada,64746
+829,CUST-00829,Harper,Thomas,1997-06-16,M,customer829@example.com,Toronto,Queensland,United States,84822
+830,CUST-00830,Aarav,Young,2002-01-07,F,customer830@example.com,Sydney,Washington,France,26003
+831,CUST-00831,Liam,Miller,1961-09-30,F,customer831@example.com,Paris,Karnataka,United Kingdom,29180
+832,CUST-00832,Liam,Young,1970-03-01,F,customer832@example.com,Bengaluru,New York,Canada,89353
+833,CUST-00833,Isabella,Anderson,1984-03-17,M,customer833@example.com,Seattle,Texas,United States,38976
+834,CUST-00834,Noah,Patel,1962-02-10,M,customer834@example.com,Seattle,Washington,India,28878
+835,CUST-00835,Harper,Davis,1975-04-12,F,customer835@example.com,Sydney,Ontario,India,76916
+836,CUST-00836,Charlotte,Smith,1966-08-09,F,customer836@example.com,Toronto,Bavaria,Germany,18201
+837,CUST-00837,Leo,Lewis,2000-02-12,F,customer837@example.com,Paris,California,United Kingdom,88025
+838,CUST-00838,Olivia,Jones,1962-09-21,M,customer838@example.com,Bengaluru,Île-de-France,Canada,88816
+839,CUST-00839,Aarav,Brown,1966-05-19,M,customer839@example.com,Munich,Queensland,France,87085
+840,CUST-00840,Ishaan,Anderson,1968-05-22,F,customer840@example.com,Bengaluru,Bavaria,Germany,36579
+841,CUST-00841,Ava,Davis,1966-05-22,F,customer841@example.com,Toronto,Île-de-France,United States,20278
+842,CUST-00842,Amelia,Patel,1984-06-12,F,customer842@example.com,Bengaluru,Texas,India,48287
+843,CUST-00843,Ishaan,Clark,1975-09-01,F,customer843@example.com,Bengaluru,California,Germany,40111
+844,CUST-00844,Aarav,Clark,1999-03-27,M,customer844@example.com,Munich,Karnataka,Australia,96311
+845,CUST-00845,Aarav,Martin,1971-03-20,F,customer845@example.com,Austin,Texas,India,66851
+846,CUST-00846,Aarav,Thomas,1983-02-06,F,customer846@example.com,Bengaluru,Texas,United States,94992
+847,CUST-00847,Olivia,Davis,1988-05-20,F,customer847@example.com,London,Ontario,United States,77578
+848,CUST-00848,Mia,Taylor,1986-12-01,F,customer848@example.com,Paris,Île-de-France,United States,74341
+849,CUST-00849,Leo,Taylor,1994-03-30,M,customer849@example.com,Paris,Bavaria,United Kingdom,20065
+850,CUST-00850,Daniel,Johnson,1968-09-05,F,customer850@example.com,Bengaluru,Ontario,France,16204
+851,CUST-00851,Grace,Patel,1981-10-27,M,customer851@example.com,New York,Texas,India,14184
+852,CUST-00852,Leo,Williams,1994-06-04,F,customer852@example.com,Sydney,New York,Germany,63400
+853,CUST-00853,Grace,Wilson,1997-02-09,M,customer853@example.com,Seattle,Karnataka,Canada,28153
+854,CUST-00854,Liam,Johnson,1986-07-25,F,customer854@example.com,Bengaluru,Texas,France,99016
+855,CUST-00855,Ava,Smith,1988-01-12,F,customer855@example.com,Munich,Ontario,United Kingdom,21939
+856,CUST-00856,Leo,Hall,1997-02-27,M,customer856@example.com,Seattle,California,France,95221
+857,CUST-00857,Liam,Miller,1986-11-14,M,customer857@example.com,Seattle,Washington,United States,70086
+858,CUST-00858,Mia,Anderson,2000-10-19,F,customer858@example.com,London,Washington,United States,19540
+859,CUST-00859,Amelia,Taylor,1965-06-26,M,customer859@example.com,Paris,Karnataka,United States,15260
+860,CUST-00860,Leo,Martin,1964-10-27,F,customer860@example.com,Sydney,Île-de-France,Germany,45636
+861,CUST-00861,Grace,Martin,1963-11-23,F,customer861@example.com,New York,Texas,United Kingdom,40505
+862,CUST-00862,Ishaan,Williams,1980-04-17,F,customer862@example.com,Paris,Bavaria,Australia,38397
+863,CUST-00863,Noah,Clark,1969-09-18,M,customer863@example.com,Sydney,Queensland,Australia,57570
+864,CUST-00864,Charlotte,Miller,1977-07-04,M,customer864@example.com,Munich,Île-de-France,Germany,21675
+865,CUST-00865,Leo,Clark,1978-10-29,F,customer865@example.com,London,Île-de-France,Canada,21651
+866,CUST-00866,Amelia,Davis,1986-09-13,F,customer866@example.com,Seattle,California,United States,72531
+867,CUST-00867,Leo,Smith,2000-08-31,F,customer867@example.com,Toronto,Karnataka,Canada,99126
+868,CUST-00868,Leo,Lee,1996-07-10,M,customer868@example.com,Bengaluru,Queensland,Canada,34646
+869,CUST-00869,Lucas,Sharma,1976-04-07,F,customer869@example.com,Austin,Texas,Germany,93872
+870,CUST-00870,Aarav,Lee,1973-12-31,F,customer870@example.com,Austin,Washington,Germany,41037
+871,CUST-00871,Isabella,Sharma,1993-02-21,F,customer871@example.com,Seattle,Île-de-France,United States,40229
+872,CUST-00872,Liam,Brown,1965-04-26,M,customer872@example.com,Munich,Ontario,Germany,18132
+873,CUST-00873,Noah,Thomas,1983-03-29,F,customer873@example.com,New York,New York,United States,48098
+874,CUST-00874,Noah,Lewis,1978-03-10,F,customer874@example.com,Paris,Washington,India,54816
+875,CUST-00875,Amelia,Davis,1967-11-11,M,customer875@example.com,Toronto,Bavaria,Canada,69738
+876,CUST-00876,Arjun,Smith,1986-07-04,F,customer876@example.com,Bengaluru,Washington,Canada,24234
+877,CUST-00877,Arjun,Brown,1967-12-25,F,customer877@example.com,New York,Texas,Australia,26982
+878,CUST-00878,Ravi,Hall,1988-02-02,M,customer878@example.com,Bengaluru,Queensland,Canada,48887
+879,CUST-00879,Arjun,Martin,1967-06-28,F,customer879@example.com,London,Île-de-France,Germany,16268
+880,CUST-00880,Daniel,Smith,1988-12-06,F,customer880@example.com,Toronto,Texas,France,22900
+881,CUST-00881,Mia,Miller,1966-12-20,F,customer881@example.com,Munich,Washington,Germany,66616
+882,CUST-00882,Harper,Williams,1978-09-11,M,customer882@example.com,Sydney,Ontario,Australia,95845
+883,CUST-00883,Lucas,Johnson,1994-09-29,F,customer883@example.com,Paris,Texas,Australia,61566
+884,CUST-00884,Olivia,Clark,1969-10-31,F,customer884@example.com,Paris,Queensland,Australia,23048
+885,CUST-00885,Leo,Thomas,1991-01-16,M,customer885@example.com,Seattle,Washington,Germany,99188
+886,CUST-00886,Ravi,Johnson,1967-04-06,F,customer886@example.com,Munich,Texas,Australia,56969
+887,CUST-00887,Mia,Moore,1990-10-01,M,customer887@example.com,Toronto,Washington,Australia,74515
+888,CUST-00888,Olivia,Davis,2000-04-11,M,customer888@example.com,Sydney,Île-de-France,Canada,27727
+889,CUST-00889,Aarav,Patel,1992-10-22,F,customer889@example.com,London,Île-de-France,Canada,62058
+890,CUST-00890,Ava,Davis,1968-01-30,M,customer890@example.com,Toronto,Ontario,Australia,16872
+891,CUST-00891,Mia,Johnson,1995-05-09,M,customer891@example.com,London,New York,India,66316
+892,CUST-00892,Ravi,Brown,1964-08-12,M,customer892@example.com,Seattle,Bavaria,Australia,28207
+893,CUST-00893,Arjun,Hall,1985-04-27,F,customer893@example.com,Paris,Texas,Germany,91855
+894,CUST-00894,Grace,Martin,1981-05-26,M,customer894@example.com,Austin,Queensland,Germany,14929
+895,CUST-00895,Ravi,Smith,1982-11-02,F,customer895@example.com,Toronto,Karnataka,Australia,68736
+896,CUST-00896,Daniel,Hall,1982-05-05,F,customer896@example.com,Austin,Karnataka,France,22545
+897,CUST-00897,Arjun,Anderson,1961-05-09,F,customer897@example.com,Austin,Texas,United Kingdom,71840
+898,CUST-00898,Mia,Hall,1981-11-07,F,customer898@example.com,Toronto,Karnataka,France,54413
+899,CUST-00899,Mia,Martin,2000-04-12,M,customer899@example.com,New York,Queensland,Canada,97072
+900,CUST-00900,Daniel,Jones,1978-10-11,M,customer900@example.com,New York,Bavaria,Australia,68662
+901,CUST-00901,Aarav,Taylor,1971-11-28,F,customer901@example.com,Toronto,Texas,United Kingdom,43479
+902,CUST-00902,Aarav,Taylor,2002-10-11,F,customer902@example.com,Sydney,Queensland,Australia,17860
+903,CUST-00903,Liam,Martin,1964-04-03,F,customer903@example.com,New York,Bavaria,Canada,63617
+904,CUST-00904,Harper,Brown,1980-11-28,M,customer904@example.com,London,Washington,India,49691
+905,CUST-00905,Isabella,Jones,1982-01-15,M,customer905@example.com,New York,Karnataka,United States,14725
+906,CUST-00906,Ravi,Brown,1980-07-20,F,customer906@example.com,Seattle,California,Germany,62311
+907,CUST-00907,Lucas,Williams,1999-08-20,F,customer907@example.com,London,Karnataka,France,28899
+908,CUST-00908,Olivia,Johnson,1978-02-19,M,customer908@example.com,Toronto,Queensland,Australia,31080
+909,CUST-00909,Sophia,Sharma,2001-11-07,F,customer909@example.com,Seattle,Texas,Australia,10806
+910,CUST-00910,Mia,Lewis,1962-11-15,F,customer910@example.com,Paris,California,India,43486
+911,CUST-00911,Charlotte,Patel,1991-07-24,M,customer911@example.com,Paris,Karnataka,United Kingdom,29644
+912,CUST-00912,Olivia,Hall,1985-06-30,F,customer912@example.com,Toronto,Washington,Germany,16465
+913,CUST-00913,Sophia,Sharma,1970-05-06,M,customer913@example.com,Paris,Ontario,United Kingdom,49086
+914,CUST-00914,Grace,Lee,1969-10-20,M,customer914@example.com,Munich,California,India,29811
+915,CUST-00915,Emma,Jones,1990-12-12,M,customer915@example.com,Paris,Île-de-France,Canada,22074
+916,CUST-00916,Isabella,Taylor,1987-06-02,F,customer916@example.com,Paris,Ontario,Germany,52007
+917,CUST-00917,Arjun,Williams,1986-04-13,F,customer917@example.com,Bengaluru,Île-de-France,Germany,15691
+918,CUST-00918,Charlotte,Wilson,1962-03-09,F,customer918@example.com,Seattle,Texas,United Kingdom,99138
+919,CUST-00919,Ava,Wilson,1985-09-16,F,customer919@example.com,New York,Texas,India,52385
+920,CUST-00920,Daniel,Taylor,2002-03-14,M,customer920@example.com,Bengaluru,Queensland,Australia,99662
+921,CUST-00921,Harper,Miller,1960-09-29,M,customer921@example.com,New York,Queensland,Canada,89321
+922,CUST-00922,Emma,Taylor,1980-03-02,M,customer922@example.com,New York,Bavaria,India,98164
+923,CUST-00923,Lucas,Clark,1981-04-04,F,customer923@example.com,Austin,Île-de-France,France,58845
+924,CUST-00924,Noah,Davis,1998-07-24,F,customer924@example.com,Toronto,Bavaria,United States,48077
+925,CUST-00925,Liam,Miller,1972-02-29,F,customer925@example.com,Austin,Texas,France,74789
+926,CUST-00926,Ishaan,Smith,1980-06-13,M,customer926@example.com,Seattle,Washington,Germany,17261
+927,CUST-00927,Arjun,Miller,1990-11-03,M,customer927@example.com,New York,Île-de-France,Australia,85616
+928,CUST-00928,Ethan,Smith,1994-06-12,M,customer928@example.com,New York,Ontario,India,39121
+929,CUST-00929,Lucas,Johnson,1995-05-10,M,customer929@example.com,New York,Bavaria,Canada,10667
+930,CUST-00930,Emma,Young,1990-12-11,M,customer930@example.com,Paris,Queensland,United States,31394
+931,CUST-00931,Arjun,Patel,1987-11-15,F,customer931@example.com,Bengaluru,California,India,31808
+932,CUST-00932,Amelia,Wilson,1992-02-23,F,customer932@example.com,Sydney,Ontario,Germany,11271
+933,CUST-00933,Ava,Clark,1993-08-13,M,customer933@example.com,New York,Bavaria,United Kingdom,70171
+934,CUST-00934,Daniel,Young,1978-05-30,M,customer934@example.com,Sydney,Queensland,Germany,18570
+935,CUST-00935,Lucas,Smith,1979-08-11,F,customer935@example.com,Bengaluru,Texas,Germany,86201
+936,CUST-00936,Ishaan,Johnson,1987-06-07,M,customer936@example.com,Austin,Texas,Germany,50786
+937,CUST-00937,Olivia,Miller,1968-04-20,M,customer937@example.com,Munich,Bavaria,Canada,74640
+938,CUST-00938,Noah,Anderson,1996-10-25,F,customer938@example.com,Paris,Île-de-France,Canada,40569
+939,CUST-00939,Isabella,Young,1993-02-17,F,customer939@example.com,Munich,Karnataka,Canada,21879
+940,CUST-00940,Arjun,Brown,1972-12-20,F,customer940@example.com,Sydney,California,Germany,26231
+941,CUST-00941,Amelia,Johnson,1974-12-13,M,customer941@example.com,Austin,Queensland,France,68128
+942,CUST-00942,Lucas,Williams,1978-09-14,F,customer942@example.com,Seattle,Bavaria,Canada,74448
+943,CUST-00943,Ishaan,Hall,1988-06-27,M,customer943@example.com,Bengaluru,Queensland,France,34077
+944,CUST-00944,Isabella,Sharma,1993-06-15,M,customer944@example.com,Munich,Queensland,Australia,42140
+945,CUST-00945,Noah,Miller,1988-11-21,F,customer945@example.com,Munich,Ontario,Canada,95053
+946,CUST-00946,Noah,Smith,1999-12-27,F,customer946@example.com,New York,Washington,United States,86667
+947,CUST-00947,Grace,Johnson,2001-04-21,M,customer947@example.com,Sydney,Washington,India,47173
+948,CUST-00948,Noah,Lewis,1990-04-24,F,customer948@example.com,Paris,Karnataka,India,31687
+949,CUST-00949,Ishaan,Sharma,1975-12-13,M,customer949@example.com,Munich,California,France,37121
+950,CUST-00950,Ava,Jones,1985-10-04,M,customer950@example.com,London,California,Germany,58454
+951,CUST-00951,Mia,Lewis,1978-04-12,M,customer951@example.com,Paris,New York,United States,61009
+952,CUST-00952,Ethan,Thomas,1994-12-03,F,customer952@example.com,Seattle,Karnataka,Australia,26572
+953,CUST-00953,Daniel,Patel,1975-11-18,F,customer953@example.com,Bengaluru,Queensland,Germany,15924
+954,CUST-00954,Lucas,Wilson,1981-09-30,M,customer954@example.com,New York,Queensland,Australia,54576
+955,CUST-00955,Charlotte,Young,1961-12-17,M,customer955@example.com,Bengaluru,Ontario,Australia,81770
+956,CUST-00956,Daniel,Davis,1991-09-03,M,customer956@example.com,New York,California,Germany,23721
+957,CUST-00957,Lucas,Taylor,1981-01-23,M,customer957@example.com,Seattle,Washington,India,46751
+958,CUST-00958,Daniel,Taylor,1979-10-08,M,customer958@example.com,Sydney,California,India,24541
+959,CUST-00959,Grace,Moore,1982-11-23,M,customer959@example.com,Paris,Karnataka,Australia,31791
+960,CUST-00960,Lucas,Johnson,1969-04-07,F,customer960@example.com,Bengaluru,Karnataka,United Kingdom,65099
+961,CUST-00961,Olivia,Clark,1985-09-17,M,customer961@example.com,Paris,Washington,Australia,35757
+962,CUST-00962,Lucas,Young,1992-01-17,M,customer962@example.com,Sydney,Washington,France,33740
+963,CUST-00963,Leo,Smith,1975-01-14,F,customer963@example.com,Munich,Washington,India,99608
+964,CUST-00964,Liam,Clark,1965-08-21,M,customer964@example.com,Toronto,Île-de-France,India,25512
+965,CUST-00965,Ishaan,Clark,1976-08-19,M,customer965@example.com,Paris,Ontario,United States,27035
+966,CUST-00966,Emma,Martin,1968-07-15,M,customer966@example.com,Austin,Karnataka,France,93678
+967,CUST-00967,Daniel,Miller,1976-01-30,M,customer967@example.com,London,Ontario,United Kingdom,59518
+968,CUST-00968,Ethan,Wilson,1986-12-14,M,customer968@example.com,Seattle,Karnataka,France,13870
+969,CUST-00969,Ishaan,Clark,1964-11-15,F,customer969@example.com,Munich,Ontario,Australia,48245
+970,CUST-00970,Aarav,Johnson,1992-02-18,M,customer970@example.com,London,Washington,France,60862
+971,CUST-00971,Ava,Clark,1969-08-28,F,customer971@example.com,London,Bavaria,France,32786
+972,CUST-00972,Lucas,Lewis,1998-06-21,F,customer972@example.com,Paris,Karnataka,Germany,59343
+973,CUST-00973,Isabella,Moore,1991-06-30,M,customer973@example.com,Toronto,Karnataka,France,68365
+974,CUST-00974,Isabella,Jones,1971-09-21,M,customer974@example.com,Austin,Île-de-France,India,32554
+975,CUST-00975,Noah,Anderson,1984-03-21,M,customer975@example.com,Seattle,Washington,Germany,83115
+976,CUST-00976,Liam,Patel,1964-10-05,M,customer976@example.com,London,California,United Kingdom,50749
+977,CUST-00977,Mia,Lewis,1964-04-15,F,customer977@example.com,New York,Queensland,United States,96710
+978,CUST-00978,Emma,Jones,2001-02-09,F,customer978@example.com,Sydney,Washington,Australia,17896
+979,CUST-00979,Sophia,Patel,1994-07-03,M,customer979@example.com,New York,New York,Germany,39180
+980,CUST-00980,Emma,Lee,1966-08-22,M,customer980@example.com,Austin,Washington,Germany,74913
+981,CUST-00981,Emma,Moore,1972-02-26,M,customer981@example.com,Toronto,New York,Australia,90541
+982,CUST-00982,Ravi,Thomas,1968-07-01,F,customer982@example.com,Austin,New York,Australia,29952
+983,CUST-00983,Arjun,Patel,1976-12-28,F,customer983@example.com,Toronto,New York,India,98221
+984,CUST-00984,Daniel,Lee,1972-07-11,M,customer984@example.com,Bengaluru,Karnataka,France,27404
+985,CUST-00985,Emma,Thomas,1974-02-08,M,customer985@example.com,Paris,Queensland,Germany,47450
+986,CUST-00986,Amelia,Lee,1982-10-06,M,customer986@example.com,Toronto,Ontario,United States,38338
+987,CUST-00987,Daniel,Clark,1968-02-17,M,customer987@example.com,Munich,Texas,India,48188
+988,CUST-00988,Ethan,Brown,1997-12-17,M,customer988@example.com,Bengaluru,Queensland,Canada,91212
+989,CUST-00989,Liam,Brown,1991-04-16,M,customer989@example.com,London,Texas,Germany,75928
+990,CUST-00990,Charlotte,Lewis,1992-09-14,M,customer990@example.com,New York,Washington,Australia,81681
+991,CUST-00991,Ethan,Taylor,1967-04-15,M,customer991@example.com,Toronto,New York,France,32859
+992,CUST-00992,Arjun,Davis,1990-06-14,M,customer992@example.com,Austin,Texas,Australia,95219
+993,CUST-00993,Olivia,Williams,1995-12-17,F,customer993@example.com,New York,New York,India,49197
+994,CUST-00994,Lucas,Thomas,1992-04-21,F,customer994@example.com,New York,Washington,United States,68675
+995,CUST-00995,Arjun,Lee,1975-05-19,M,customer995@example.com,Seattle,Bavaria,France,72794
+996,CUST-00996,Daniel,Sharma,1993-11-12,M,customer996@example.com,New York,Bavaria,United Kingdom,69662
+997,CUST-00997,Arjun,Anderson,1994-06-30,F,customer997@example.com,New York,California,Canada,64161
+998,CUST-00998,Sophia,Young,1966-05-04,F,customer998@example.com,Paris,Queensland,Germany,53202
+999,CUST-00999,Grace,Williams,1976-09-23,M,customer999@example.com,London,Queensland,France,68287
+1000,CUST-01000,Arjun,Williams,1971-10-04,F,customer1000@example.com,Bengaluru,New York,Australia,91465
